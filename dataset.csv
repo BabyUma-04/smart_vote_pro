@@ -1,0 +1,1007 @@
+voter_id,region,candidate,timestamp
+VOTER1,Madhya Pradesh,Rahul Verma,1773242136
+VOTER2,Kerala,Rajesh Kumar,1773242137
+VOTER3,Rajasthan,Anjali Nair,1773242138
+VOTER4,Maharashtra,Amit Singh,1773242139
+VOTER5,Madhya Pradesh,Priya Sharma,1773242140
+VOTER6,Andhra Pradesh,Rajesh Kumar,1773242141
+VOTER7,Rajasthan,Sunita Reddy,1773242142
+VOTER8,Tamil Nadu,Sunita Reddy,1773242143
+VOTER9,Madhya Pradesh,Priya Sharma,1773242144
+VOTER10,West Bengal,Vikram Patel,1773242145
+VOTER11,Madhya Pradesh,Sunita Reddy,1773242146
+VOTER12,Karnataka,Rahul Verma,1773242147
+VOTER13,West Bengal,Rahul Verma,1773242148
+VOTER14,Maharashtra,Sunita Reddy,1773242149
+VOTER15,Andhra Pradesh,Vikram Patel,1773242150
+VOTER16,Madhya Pradesh,Priya Sharma,1773242151
+VOTER17,Delhi,Sunita Reddy,1773242152
+VOTER18,Madhya Pradesh,Anjali Nair,1773242153
+VOTER19,Uttar Pradesh,Rajesh Kumar,1773242154
+VOTER20,Rajasthan,Priya Sharma,1773242155
+VOTER21,Gujarat,Anjali Nair,1773242156
+VOTER22,Tamil Nadu,Priya Sharma,1773242157
+VOTER23,Maharashtra,Anjali Nair,1773242158
+VOTER24,Delhi,Rahul Verma,1773242159
+VOTER25,Tamil Nadu,Amit Singh,1773242160
+VOTER26,Kerala,Anjali Nair,1773242161
+VOTER27,Uttar Pradesh,Rahul Verma,1773242162
+VOTER28,Uttar Pradesh,Amit Singh,1773242163
+VOTER29,Gujarat,Rajesh Kumar,1773242164
+VOTER30,Madhya Pradesh,Priya Sharma,1773242165
+VOTER31,Karnataka,Vikram Patel,1773242166
+VOTER32,Kerala,Priya Sharma,1773242167
+VOTER33,Kerala,Sunita Reddy,1773242168
+VOTER34,Gujarat,Sunita Reddy,1773242169
+VOTER35,Kerala,Rajesh Kumar,1773242170
+VOTER36,Gujarat,Anjali Nair,1773242171
+VOTER37,Andhra Pradesh,Vikram Patel,1773242172
+VOTER38,Gujarat,Rahul Verma,1773242173
+VOTER39,Rajasthan,Priya Sharma,1773242174
+VOTER40,Tamil Nadu,Vikram Patel,1773242175
+VOTER41,Rajasthan,Rahul Verma,1773242176
+VOTER42,Delhi,Rajesh Kumar,1773242177
+VOTER43,Uttar Pradesh,Vikram Patel,1773242178
+VOTER44,Maharashtra,Sunita Reddy,1773242179
+VOTER45,Gujarat,Sunita Reddy,1773242180
+VOTER46,Gujarat,Amit Singh,1773242181
+VOTER47,Gujarat,Vikram Patel,1773242182
+VOTER48,Kerala,Priya Sharma,1773242183
+VOTER49,Telangana,Rahul Verma,1773242184
+VOTER50,Telangana,Rahul Verma,1773242185
+VOTER51,Maharashtra,Rajesh Kumar,1773242186
+VOTER52,Maharashtra,Rahul Verma,1773242187
+VOTER53,Uttar Pradesh,Rahul Verma,1773242188
+VOTER54,Delhi,Priya Sharma,1773242189
+VOTER55,Gujarat,Anjali Nair,1773242190
+VOTER56,West Bengal,Sunita Reddy,1773242191
+VOTER57,Gujarat,Priya Sharma,1773242192
+VOTER58,Gujarat,Vikram Patel,1773242193
+VOTER59,Gujarat,Vikram Patel,1773242194
+VOTER60,Andhra Pradesh,Anjali Nair,1773242195
+VOTER61,Karnataka,Vikram Patel,1773242196
+VOTER62,Tamil Nadu,Vikram Patel,1773242197
+VOTER63,Delhi,Anjali Nair,1773242198
+VOTER64,Telangana,Anjali Nair,1773242199
+VOTER65,Tamil Nadu,Vikram Patel,1773242200
+VOTER66,Telangana,Amit Singh,1773242201
+VOTER67,Telangana,Sunita Reddy,1773242202
+VOTER68,West Bengal,Anjali Nair,1773242203
+VOTER69,Gujarat,Rahul Verma,1773242204
+VOTER70,Gujarat,Anjali Nair,1773242205
+VOTER71,Maharashtra,Priya Sharma,1773242206
+VOTER72,Maharashtra,Priya Sharma,1773242207
+VOTER73,Maharashtra,Vikram Patel,1773242208
+VOTER74,Andhra Pradesh,Priya Sharma,1773242209
+VOTER75,Kerala,Priya Sharma,1773242210
+VOTER76,Karnataka,Priya Sharma,1773242211
+VOTER77,Karnataka,Rahul Verma,1773242212
+VOTER78,Gujarat,Anjali Nair,1773242213
+VOTER79,Gujarat,Priya Sharma,1773242214
+VOTER80,Andhra Pradesh,Priya Sharma,1773242215
+VOTER81,Telangana,Rajesh Kumar,1773242216
+VOTER82,Uttar Pradesh,Vikram Patel,1773242217
+VOTER83,Madhya Pradesh,Sunita Reddy,1773242218
+VOTER84,West Bengal,Rahul Verma,1773242219
+VOTER85,Karnataka,Rahul Verma,1773242220
+VOTER86,Kerala,Rahul Verma,1773242221
+VOTER87,Kerala,Sunita Reddy,1773242222
+VOTER88,Madhya Pradesh,Amit Singh,1773242223
+VOTER89,Karnataka,Rahul Verma,1773242224
+VOTER90,Tamil Nadu,Priya Sharma,1773242225
+VOTER91,West Bengal,Rahul Verma,1773242226
+VOTER92,Karnataka,Rahul Verma,1773242227
+VOTER93,Rajasthan,Rajesh Kumar,1773242228
+VOTER94,Tamil Nadu,Amit Singh,1773242229
+VOTER95,Uttar Pradesh,Amit Singh,1773242230
+VOTER96,Gujarat,Sunita Reddy,1773242231
+VOTER97,Karnataka,Rahul Verma,1773242232
+VOTER98,Andhra Pradesh,Anjali Nair,1773242233
+VOTER99,Gujarat,Anjali Nair,1773242234
+VOTER100,Andhra Pradesh,Vikram Patel,1773242235
+VOTER101,Delhi,Sunita Reddy,1773242236
+VOTER102,Gujarat,Rajesh Kumar,1773242237
+VOTER103,Karnataka,Rahul Verma,1773242238
+VOTER104,West Bengal,Vikram Patel,1773242239
+VOTER105,Madhya Pradesh,Sunita Reddy,1773242240
+VOTER106,Maharashtra,Rajesh Kumar,1773242241
+VOTER107,Gujarat,Vikram Patel,1773242242
+VOTER108,West Bengal,Rahul Verma,1773242243
+VOTER109,Rajasthan,Amit Singh,1773242244
+VOTER110,Uttar Pradesh,Priya Sharma,1773242245
+VOTER111,Rajasthan,Priya Sharma,1773242246
+VOTER112,Tamil Nadu,Anjali Nair,1773242247
+VOTER113,Rajasthan,Anjali Nair,1773242248
+VOTER114,Gujarat,Sunita Reddy,1773242249
+VOTER115,Telangana,Vikram Patel,1773242250
+VOTER116,Karnataka,Priya Sharma,1773242251
+VOTER117,Tamil Nadu,Priya Sharma,1773242252
+VOTER118,Telangana,Anjali Nair,1773242253
+VOTER119,Madhya Pradesh,Anjali Nair,1773242254
+VOTER120,Tamil Nadu,Rahul Verma,1773242255
+VOTER121,Gujarat,Sunita Reddy,1773242256
+VOTER122,Delhi,Vikram Patel,1773242257
+VOTER123,Gujarat,Priya Sharma,1773242258
+VOTER124,West Bengal,Amit Singh,1773242259
+VOTER125,Andhra Pradesh,Sunita Reddy,1773242260
+VOTER126,Delhi,Priya Sharma,1773242261
+VOTER127,Gujarat,Rajesh Kumar,1773242262
+VOTER128,Telangana,Anjali Nair,1773242263
+VOTER129,Karnataka,Anjali Nair,1773242264
+VOTER130,Andhra Pradesh,Sunita Reddy,1773242265
+VOTER131,Delhi,Vikram Patel,1773242266
+VOTER132,Delhi,Anjali Nair,1773242267
+VOTER133,Uttar Pradesh,Rahul Verma,1773242268
+VOTER134,Andhra Pradesh,Rahul Verma,1773242269
+VOTER135,Andhra Pradesh,Vikram Patel,1773242270
+VOTER136,Andhra Pradesh,Rahul Verma,1773242271
+VOTER137,Telangana,Priya Sharma,1773242272
+VOTER138,Telangana,Priya Sharma,1773242273
+VOTER139,Delhi,Anjali Nair,1773242274
+VOTER140,Maharashtra,Sunita Reddy,1773242275
+VOTER141,Madhya Pradesh,Amit Singh,1773242276
+VOTER142,Delhi,Priya Sharma,1773242277
+VOTER143,West Bengal,Vikram Patel,1773242278
+VOTER144,Gujarat,Vikram Patel,1773242279
+VOTER145,Kerala,Priya Sharma,1773242280
+VOTER146,Tamil Nadu,Rajesh Kumar,1773242281
+VOTER147,Rajasthan,Sunita Reddy,1773242282
+VOTER148,Maharashtra,Anjali Nair,1773242283
+VOTER149,Delhi,Sunita Reddy,1773242284
+VOTER150,Maharashtra,Rajesh Kumar,1773242285
+VOTER151,West Bengal,Rahul Verma,1773242286
+VOTER152,Andhra Pradesh,Rajesh Kumar,1773242287
+VOTER153,Karnataka,Sunita Reddy,1773242288
+VOTER154,Madhya Pradesh,Sunita Reddy,1773242289
+VOTER155,Rajasthan,Amit Singh,1773242290
+VOTER156,West Bengal,Rahul Verma,1773242291
+VOTER157,Maharashtra,Amit Singh,1773242292
+VOTER158,Maharashtra,Vikram Patel,1773242293
+VOTER159,Kerala,Rahul Verma,1773242294
+VOTER160,Tamil Nadu,Sunita Reddy,1773242295
+VOTER161,Delhi,Rahul Verma,1773242296
+VOTER162,Karnataka,Sunita Reddy,1773242297
+VOTER163,Karnataka,Vikram Patel,1773242298
+VOTER164,Madhya Pradesh,Priya Sharma,1773242299
+VOTER165,Kerala,Amit Singh,1773242300
+VOTER166,Gujarat,Amit Singh,1773242301
+VOTER167,Delhi,Anjali Nair,1773242302
+VOTER168,West Bengal,Priya Sharma,1773242303
+VOTER169,Tamil Nadu,Rajesh Kumar,1773242304
+VOTER170,Tamil Nadu,Anjali Nair,1773242305
+VOTER171,Gujarat,Vikram Patel,1773242306
+VOTER172,Telangana,Rajesh Kumar,1773242307
+VOTER173,Karnataka,Anjali Nair,1773242308
+VOTER174,Delhi,Vikram Patel,1773242309
+VOTER175,Tamil Nadu,Rajesh Kumar,1773242310
+VOTER176,Andhra Pradesh,Anjali Nair,1773242311
+VOTER177,Karnataka,Anjali Nair,1773242312
+VOTER178,Delhi,Amit Singh,1773242313
+VOTER179,Rajasthan,Amit Singh,1773242314
+VOTER180,Maharashtra,Vikram Patel,1773242315
+VOTER181,Tamil Nadu,Anjali Nair,1773242316
+VOTER182,Uttar Pradesh,Sunita Reddy,1773242317
+VOTER183,Andhra Pradesh,Priya Sharma,1773242318
+VOTER184,Madhya Pradesh,Anjali Nair,1773242319
+VOTER185,Andhra Pradesh,Priya Sharma,1773242320
+VOTER186,Rajasthan,Amit Singh,1773242321
+VOTER187,Delhi,Vikram Patel,1773242322
+VOTER188,Uttar Pradesh,Amit Singh,1773242323
+VOTER189,Gujarat,Anjali Nair,1773242324
+VOTER190,Kerala,Priya Sharma,1773242325
+VOTER191,Rajasthan,Rajesh Kumar,1773242326
+VOTER192,West Bengal,Amit Singh,1773242327
+VOTER193,West Bengal,Rahul Verma,1773242328
+VOTER194,Gujarat,Rahul Verma,1773242329
+VOTER195,Uttar Pradesh,Rajesh Kumar,1773242330
+VOTER196,Maharashtra,Rahul Verma,1773242331
+VOTER197,Uttar Pradesh,Amit Singh,1773242332
+VOTER198,Andhra Pradesh,Sunita Reddy,1773242333
+VOTER199,Gujarat,Anjali Nair,1773242334
+VOTER200,Kerala,Priya Sharma,1773242335
+VOTER201,West Bengal,Vikram Patel,1773242336
+VOTER202,Andhra Pradesh,Anjali Nair,1773242337
+VOTER203,Gujarat,Sunita Reddy,1773242338
+VOTER204,Gujarat,Amit Singh,1773242339
+VOTER205,Andhra Pradesh,Priya Sharma,1773242340
+VOTER206,Madhya Pradesh,Vikram Patel,1773242341
+VOTER207,Andhra Pradesh,Sunita Reddy,1773242342
+VOTER208,Maharashtra,Amit Singh,1773242343
+VOTER209,Maharashtra,Sunita Reddy,1773242344
+VOTER210,Delhi,Rajesh Kumar,1773242345
+VOTER211,Andhra Pradesh,Priya Sharma,1773242346
+VOTER212,West Bengal,Anjali Nair,1773242347
+VOTER213,Telangana,Vikram Patel,1773242348
+VOTER214,Madhya Pradesh,Anjali Nair,1773242349
+VOTER215,Andhra Pradesh,Anjali Nair,1773242350
+VOTER216,Madhya Pradesh,Vikram Patel,1773242351
+VOTER217,Kerala,Sunita Reddy,1773242352
+VOTER218,Rajasthan,Vikram Patel,1773242353
+VOTER219,Maharashtra,Priya Sharma,1773242354
+VOTER220,Telangana,Rajesh Kumar,1773242355
+VOTER221,Madhya Pradesh,Amit Singh,1773242356
+VOTER222,Rajasthan,Priya Sharma,1773242357
+VOTER223,Uttar Pradesh,Anjali Nair,1773242358
+VOTER224,Delhi,Amit Singh,1773242359
+VOTER225,Telangana,Sunita Reddy,1773242360
+VOTER226,Telangana,Anjali Nair,1773242361
+VOTER227,Maharashtra,Anjali Nair,1773242362
+VOTER228,Uttar Pradesh,Rahul Verma,1773242363
+VOTER229,Telangana,Rahul Verma,1773242364
+VOTER230,Tamil Nadu,Priya Sharma,1773242365
+VOTER231,Tamil Nadu,Anjali Nair,1773242366
+VOTER232,West Bengal,Rajesh Kumar,1773242367
+VOTER233,Rajasthan,Anjali Nair,1773242368
+VOTER234,Andhra Pradesh,Priya Sharma,1773242369
+VOTER235,Gujarat,Sunita Reddy,1773242370
+VOTER236,Delhi,Anjali Nair,1773242371
+VOTER237,Karnataka,Priya Sharma,1773242372
+VOTER238,Uttar Pradesh,Rajesh Kumar,1773242373
+VOTER239,Karnataka,Priya Sharma,1773242374
+VOTER240,West Bengal,Anjali Nair,1773242375
+VOTER241,Telangana,Rahul Verma,1773242376
+VOTER242,Telangana,Anjali Nair,1773242377
+VOTER243,Tamil Nadu,Vikram Patel,1773242378
+VOTER244,West Bengal,Vikram Patel,1773242379
+VOTER245,Rajasthan,Vikram Patel,1773242380
+VOTER246,Maharashtra,Rahul Verma,1773242381
+VOTER247,Kerala,Anjali Nair,1773242382
+VOTER248,Karnataka,Vikram Patel,1773242383
+VOTER249,Gujarat,Vikram Patel,1773242384
+VOTER250,Telangana,Vikram Patel,1773242385
+VOTER251,Kerala,Rajesh Kumar,1773242386
+VOTER252,Maharashtra,Rajesh Kumar,1773242387
+VOTER253,West Bengal,Rahul Verma,1773242388
+VOTER254,Tamil Nadu,Anjali Nair,1773242389
+VOTER255,Karnataka,Anjali Nair,1773242390
+VOTER256,Gujarat,Priya Sharma,1773242391
+VOTER257,Telangana,Priya Sharma,1773242392
+VOTER258,Rajasthan,Sunita Reddy,1773242393
+VOTER259,Telangana,Amit Singh,1773242394
+VOTER260,Andhra Pradesh,Priya Sharma,1773242395
+VOTER261,Rajasthan,Vikram Patel,1773242396
+VOTER262,Gujarat,Anjali Nair,1773242397
+VOTER263,Rajasthan,Rajesh Kumar,1773242398
+VOTER264,Maharashtra,Rahul Verma,1773242399
+VOTER265,West Bengal,Vikram Patel,1773242400
+VOTER266,Rajasthan,Rahul Verma,1773242401
+VOTER267,Uttar Pradesh,Sunita Reddy,1773242402
+VOTER268,Tamil Nadu,Rahul Verma,1773242403
+VOTER269,Delhi,Anjali Nair,1773242404
+VOTER270,Telangana,Priya Sharma,1773242405
+VOTER271,Maharashtra,Sunita Reddy,1773242406
+VOTER272,Delhi,Sunita Reddy,1773242407
+VOTER273,West Bengal,Amit Singh,1773242408
+VOTER274,Maharashtra,Vikram Patel,1773242409
+VOTER275,Karnataka,Anjali Nair,1773242410
+VOTER276,Madhya Pradesh,Priya Sharma,1773242411
+VOTER277,Andhra Pradesh,Rahul Verma,1773242412
+VOTER278,Karnataka,Anjali Nair,1773242413
+VOTER279,Delhi,Vikram Patel,1773242414
+VOTER280,Karnataka,Amit Singh,1773242415
+VOTER281,Madhya Pradesh,Sunita Reddy,1773242416
+VOTER282,Maharashtra,Vikram Patel,1773242417
+VOTER283,Rajasthan,Sunita Reddy,1773242418
+VOTER284,Andhra Pradesh,Vikram Patel,1773242419
+VOTER285,Uttar Pradesh,Anjali Nair,1773242420
+VOTER286,West Bengal,Amit Singh,1773242421
+VOTER287,Rajasthan,Amit Singh,1773242422
+VOTER288,Telangana,Rajesh Kumar,1773242423
+VOTER289,Karnataka,Vikram Patel,1773242424
+VOTER290,Maharashtra,Sunita Reddy,1773242425
+VOTER291,Maharashtra,Vikram Patel,1773242426
+VOTER292,Delhi,Rahul Verma,1773242427
+VOTER293,Kerala,Anjali Nair,1773242428
+VOTER294,Andhra Pradesh,Rahul Verma,1773242429
+VOTER295,Andhra Pradesh,Vikram Patel,1773242430
+VOTER296,Gujarat,Vikram Patel,1773242431
+VOTER297,Uttar Pradesh,Sunita Reddy,1773242432
+VOTER298,Maharashtra,Sunita Reddy,1773242433
+VOTER299,Delhi,Rajesh Kumar,1773242434
+VOTER300,West Bengal,Priya Sharma,1773242435
+VOTER301,West Bengal,Amit Singh,1773242436
+VOTER302,Karnataka,Amit Singh,1773242437
+VOTER303,Kerala,Anjali Nair,1773242438
+VOTER304,Madhya Pradesh,Amit Singh,1773242439
+VOTER305,West Bengal,Anjali Nair,1773242440
+VOTER306,Andhra Pradesh,Vikram Patel,1773242441
+VOTER307,Delhi,Sunita Reddy,1773242442
+VOTER308,West Bengal,Rahul Verma,1773242443
+VOTER309,Delhi,Rajesh Kumar,1773242444
+VOTER310,Gujarat,Sunita Reddy,1773242445
+VOTER311,Andhra Pradesh,Rajesh Kumar,1773242446
+VOTER312,Andhra Pradesh,Sunita Reddy,1773242447
+VOTER313,Uttar Pradesh,Sunita Reddy,1773242448
+VOTER314,Telangana,Sunita Reddy,1773242449
+VOTER315,Madhya Pradesh,Rajesh Kumar,1773242450
+VOTER316,Madhya Pradesh,Rahul Verma,1773242451
+VOTER317,Andhra Pradesh,Anjali Nair,1773242452
+VOTER318,West Bengal,Amit Singh,1773242453
+VOTER319,Karnataka,Priya Sharma,1773242454
+VOTER320,Rajasthan,Anjali Nair,1773242455
+VOTER321,Kerala,Rahul Verma,1773242456
+VOTER322,Uttar Pradesh,Anjali Nair,1773242457
+VOTER323,Kerala,Anjali Nair,1773242458
+VOTER324,Tamil Nadu,Sunita Reddy,1773242459
+VOTER325,West Bengal,Amit Singh,1773242460
+VOTER326,West Bengal,Amit Singh,1773242461
+VOTER327,Madhya Pradesh,Vikram Patel,1773242462
+VOTER328,Karnataka,Sunita Reddy,1773242463
+VOTER329,Uttar Pradesh,Rahul Verma,1773242464
+VOTER330,Gujarat,Priya Sharma,1773242465
+VOTER331,West Bengal,Rajesh Kumar,1773242466
+VOTER332,Delhi,Amit Singh,1773242467
+VOTER333,Uttar Pradesh,Priya Sharma,1773242468
+VOTER334,Gujarat,Priya Sharma,1773242469
+VOTER335,Tamil Nadu,Priya Sharma,1773242470
+VOTER336,Kerala,Priya Sharma,1773242471
+VOTER337,Gujarat,Rajesh Kumar,1773242472
+VOTER338,Maharashtra,Amit Singh,1773242473
+VOTER339,Andhra Pradesh,Rajesh Kumar,1773242474
+VOTER340,West Bengal,Sunita Reddy,1773242475
+VOTER341,Delhi,Sunita Reddy,1773242476
+VOTER342,Delhi,Rajesh Kumar,1773242477
+VOTER343,Tamil Nadu,Sunita Reddy,1773242478
+VOTER344,Maharashtra,Vikram Patel,1773242479
+VOTER345,Delhi,Rajesh Kumar,1773242480
+VOTER346,West Bengal,Sunita Reddy,1773242481
+VOTER347,Delhi,Sunita Reddy,1773242482
+VOTER348,Rajasthan,Anjali Nair,1773242483
+VOTER349,Gujarat,Anjali Nair,1773242484
+VOTER350,Madhya Pradesh,Priya Sharma,1773242485
+VOTER351,Andhra Pradesh,Amit Singh,1773242486
+VOTER352,Gujarat,Vikram Patel,1773242487
+VOTER353,Telangana,Vikram Patel,1773242488
+VOTER354,Telangana,Vikram Patel,1773242489
+VOTER355,Delhi,Rajesh Kumar,1773242490
+VOTER356,Gujarat,Rahul Verma,1773242491
+VOTER357,Madhya Pradesh,Vikram Patel,1773242492
+VOTER358,Uttar Pradesh,Rahul Verma,1773242493
+VOTER359,Tamil Nadu,Anjali Nair,1773242494
+VOTER360,Tamil Nadu,Anjali Nair,1773242495
+VOTER361,Delhi,Sunita Reddy,1773242496
+VOTER362,Karnataka,Amit Singh,1773242497
+VOTER363,Kerala,Rahul Verma,1773242498
+VOTER364,Kerala,Anjali Nair,1773242499
+VOTER365,Gujarat,Priya Sharma,1773242500
+VOTER366,Delhi,Anjali Nair,1773242501
+VOTER367,Gujarat,Priya Sharma,1773242502
+VOTER368,Maharashtra,Rajesh Kumar,1773242503
+VOTER369,Telangana,Vikram Patel,1773242504
+VOTER370,Delhi,Vikram Patel,1773242505
+VOTER371,Madhya Pradesh,Sunita Reddy,1773242506
+VOTER372,Maharashtra,Vikram Patel,1773242507
+VOTER373,Gujarat,Rahul Verma,1773242508
+VOTER374,Madhya Pradesh,Rahul Verma,1773242509
+VOTER375,Tamil Nadu,Sunita Reddy,1773242510
+VOTER376,Andhra Pradesh,Rahul Verma,1773242511
+VOTER377,Gujarat,Rajesh Kumar,1773242512
+VOTER378,Maharashtra,Sunita Reddy,1773242513
+VOTER379,Kerala,Anjali Nair,1773242514
+VOTER380,Delhi,Amit Singh,1773242515
+VOTER381,Tamil Nadu,Priya Sharma,1773242516
+VOTER382,Delhi,Vikram Patel,1773242517
+VOTER383,Telangana,Priya Sharma,1773242518
+VOTER384,Karnataka,Rahul Verma,1773242519
+VOTER385,West Bengal,Sunita Reddy,1773242520
+VOTER386,Madhya Pradesh,Priya Sharma,1773242521
+VOTER387,Tamil Nadu,Sunita Reddy,1773242522
+VOTER388,Karnataka,Vikram Patel,1773242523
+VOTER389,Karnataka,Rajesh Kumar,1773242524
+VOTER390,Madhya Pradesh,Priya Sharma,1773242525
+VOTER391,Uttar Pradesh,Sunita Reddy,1773242526
+VOTER392,Maharashtra,Rajesh Kumar,1773242527
+VOTER393,Kerala,Amit Singh,1773242528
+VOTER394,Telangana,Rajesh Kumar,1773242529
+VOTER395,Maharashtra,Vikram Patel,1773242530
+VOTER396,Gujarat,Rajesh Kumar,1773242531
+VOTER397,Delhi,Rahul Verma,1773242532
+VOTER398,Rajasthan,Anjali Nair,1773242533
+VOTER399,Uttar Pradesh,Rahul Verma,1773242534
+VOTER400,West Bengal,Priya Sharma,1773242535
+VOTER401,West Bengal,Sunita Reddy,1773242536
+VOTER402,Gujarat,Anjali Nair,1773242537
+VOTER403,West Bengal,Anjali Nair,1773242538
+VOTER404,Karnataka,Rahul Verma,1773242539
+VOTER405,Andhra Pradesh,Priya Sharma,1773242540
+VOTER406,Andhra Pradesh,Vikram Patel,1773242541
+VOTER407,Tamil Nadu,Rahul Verma,1773242542
+VOTER408,Tamil Nadu,Priya Sharma,1773242543
+VOTER409,Uttar Pradesh,Rahul Verma,1773242544
+VOTER410,Tamil Nadu,Rajesh Kumar,1773242545
+VOTER411,Delhi,Sunita Reddy,1773242546
+VOTER412,Karnataka,Sunita Reddy,1773242547
+VOTER413,Uttar Pradesh,Anjali Nair,1773242548
+VOTER414,Andhra Pradesh,Amit Singh,1773242549
+VOTER415,Andhra Pradesh,Rahul Verma,1773242550
+VOTER416,Karnataka,Sunita Reddy,1773242551
+VOTER417,Delhi,Anjali Nair,1773242552
+VOTER418,Madhya Pradesh,Rajesh Kumar,1773242553
+VOTER419,Rajasthan,Vikram Patel,1773242554
+VOTER420,Tamil Nadu,Amit Singh,1773242555
+VOTER421,Uttar Pradesh,Priya Sharma,1773242556
+VOTER422,Andhra Pradesh,Rahul Verma,1773242557
+VOTER423,West Bengal,Anjali Nair,1773242558
+VOTER424,Andhra Pradesh,Anjali Nair,1773242559
+VOTER425,Madhya Pradesh,Rajesh Kumar,1773242560
+VOTER426,Telangana,Rahul Verma,1773242561
+VOTER427,Maharashtra,Amit Singh,1773242562
+VOTER428,Tamil Nadu,Vikram Patel,1773242563
+VOTER429,Kerala,Rajesh Kumar,1773242564
+VOTER430,Madhya Pradesh,Anjali Nair,1773242565
+VOTER431,Tamil Nadu,Rahul Verma,1773242566
+VOTER432,Rajasthan,Rajesh Kumar,1773242567
+VOTER433,Gujarat,Amit Singh,1773242568
+VOTER434,Uttar Pradesh,Anjali Nair,1773242569
+VOTER435,Kerala,Anjali Nair,1773242570
+VOTER436,Uttar Pradesh,Priya Sharma,1773242571
+VOTER437,Delhi,Rahul Verma,1773242572
+VOTER438,Gujarat,Amit Singh,1773242573
+VOTER439,Andhra Pradesh,Rahul Verma,1773242574
+VOTER440,Karnataka,Sunita Reddy,1773242575
+VOTER441,Karnataka,Amit Singh,1773242576
+VOTER442,Maharashtra,Sunita Reddy,1773242577
+VOTER443,Gujarat,Amit Singh,1773242578
+VOTER444,Andhra Pradesh,Anjali Nair,1773242579
+VOTER445,West Bengal,Rahul Verma,1773242580
+VOTER446,Karnataka,Rajesh Kumar,1773242581
+VOTER447,Tamil Nadu,Sunita Reddy,1773242582
+VOTER448,Delhi,Rahul Verma,1773242583
+VOTER449,Madhya Pradesh,Sunita Reddy,1773242584
+VOTER450,Gujarat,Sunita Reddy,1773242585
+VOTER451,Delhi,Vikram Patel,1773242586
+VOTER452,Madhya Pradesh,Priya Sharma,1773242587
+VOTER453,Gujarat,Anjali Nair,1773242588
+VOTER454,Tamil Nadu,Anjali Nair,1773242589
+VOTER455,Telangana,Vikram Patel,1773242590
+VOTER456,Kerala,Vikram Patel,1773242591
+VOTER457,Maharashtra,Anjali Nair,1773242592
+VOTER458,Karnataka,Rahul Verma,1773242593
+VOTER459,Karnataka,Sunita Reddy,1773242594
+VOTER460,West Bengal,Sunita Reddy,1773242595
+VOTER461,West Bengal,Amit Singh,1773242596
+VOTER462,Tamil Nadu,Vikram Patel,1773242597
+VOTER463,Delhi,Rahul Verma,1773242598
+VOTER464,Karnataka,Anjali Nair,1773242599
+VOTER465,Andhra Pradesh,Rahul Verma,1773242600
+VOTER466,Delhi,Anjali Nair,1773242601
+VOTER467,Karnataka,Sunita Reddy,1773242602
+VOTER468,Andhra Pradesh,Vikram Patel,1773242603
+VOTER469,Andhra Pradesh,Sunita Reddy,1773242604
+VOTER470,Maharashtra,Rajesh Kumar,1773242605
+VOTER471,Karnataka,Anjali Nair,1773242606
+VOTER472,Rajasthan,Priya Sharma,1773242607
+VOTER473,Delhi,Vikram Patel,1773242608
+VOTER474,Kerala,Rahul Verma,1773242609
+VOTER475,Andhra Pradesh,Anjali Nair,1773242610
+VOTER476,Uttar Pradesh,Priya Sharma,1773242611
+VOTER477,Andhra Pradesh,Anjali Nair,1773242612
+VOTER478,Rajasthan,Priya Sharma,1773242613
+VOTER479,Karnataka,Rahul Verma,1773242614
+VOTER480,Tamil Nadu,Amit Singh,1773242615
+VOTER481,Delhi,Priya Sharma,1773242616
+VOTER482,Delhi,Priya Sharma,1773242617
+VOTER483,Andhra Pradesh,Rahul Verma,1773242618
+VOTER484,Uttar Pradesh,Vikram Patel,1773242619
+VOTER485,West Bengal,Anjali Nair,1773242620
+VOTER486,Rajasthan,Anjali Nair,1773242621
+VOTER487,West Bengal,Vikram Patel,1773242622
+VOTER488,Gujarat,Rahul Verma,1773242623
+VOTER489,Maharashtra,Rahul Verma,1773242624
+VOTER490,Andhra Pradesh,Anjali Nair,1773242625
+VOTER491,Maharashtra,Rahul Verma,1773242626
+VOTER492,Delhi,Rahul Verma,1773242627
+VOTER493,Gujarat,Priya Sharma,1773242628
+VOTER494,Telangana,Anjali Nair,1773242629
+VOTER495,Karnataka,Amit Singh,1773242630
+VOTER496,Maharashtra,Rajesh Kumar,1773242631
+VOTER497,Kerala,Rahul Verma,1773242632
+VOTER498,Andhra Pradesh,Amit Singh,1773242633
+VOTER499,Rajasthan,Vikram Patel,1773242634
+VOTER500,West Bengal,Rahul Verma,1773242635
+VOTER501,Uttar Pradesh,Sunita Reddy,1773242636
+VOTER502,Telangana,Rahul Verma,1773242637
+VOTER503,Tamil Nadu,Priya Sharma,1773242638
+VOTER504,Delhi,Sunita Reddy,1773242639
+VOTER505,Gujarat,Amit Singh,1773242640
+VOTER506,Tamil Nadu,Rahul Verma,1773242641
+VOTER507,Andhra Pradesh,Amit Singh,1773242642
+VOTER508,Maharashtra,Rahul Verma,1773242643
+VOTER509,Andhra Pradesh,Anjali Nair,1773242644
+VOTER510,Delhi,Rajesh Kumar,1773242645
+VOTER511,Rajasthan,Rajesh Kumar,1773242646
+VOTER512,Gujarat,Priya Sharma,1773242647
+VOTER513,Andhra Pradesh,Rahul Verma,1773242648
+VOTER514,West Bengal,Anjali Nair,1773242649
+VOTER515,Maharashtra,Anjali Nair,1773242650
+VOTER516,Karnataka,Amit Singh,1773242651
+VOTER517,Delhi,Sunita Reddy,1773242652
+VOTER518,Rajasthan,Anjali Nair,1773242653
+VOTER519,Rajasthan,Vikram Patel,1773242654
+VOTER520,Tamil Nadu,Priya Sharma,1773242655
+VOTER521,Uttar Pradesh,Anjali Nair,1773242656
+VOTER522,Maharashtra,Sunita Reddy,1773242657
+VOTER523,Maharashtra,Priya Sharma,1773242658
+VOTER524,Telangana,Vikram Patel,1773242659
+VOTER525,Rajasthan,Rahul Verma,1773242660
+VOTER526,Karnataka,Priya Sharma,1773242661
+VOTER527,Telangana,Priya Sharma,1773242662
+VOTER528,Gujarat,Rahul Verma,1773242663
+VOTER529,Rajasthan,Rahul Verma,1773242664
+VOTER530,Tamil Nadu,Rajesh Kumar,1773242665
+VOTER531,Telangana,Priya Sharma,1773242666
+VOTER532,Telangana,Rajesh Kumar,1773242667
+VOTER533,Delhi,Anjali Nair,1773242668
+VOTER534,Maharashtra,Priya Sharma,1773242669
+VOTER535,Kerala,Sunita Reddy,1773242670
+VOTER536,Telangana,Vikram Patel,1773242671
+VOTER537,West Bengal,Amit Singh,1773242672
+VOTER538,Andhra Pradesh,Sunita Reddy,1773242673
+VOTER539,Telangana,Priya Sharma,1773242674
+VOTER540,Karnataka,Amit Singh,1773242675
+VOTER541,Uttar Pradesh,Amit Singh,1773242676
+VOTER542,Telangana,Priya Sharma,1773242677
+VOTER543,Uttar Pradesh,Anjali Nair,1773242678
+VOTER544,Madhya Pradesh,Amit Singh,1773242679
+VOTER545,Rajasthan,Priya Sharma,1773242680
+VOTER546,Andhra Pradesh,Rahul Verma,1773242681
+VOTER547,Uttar Pradesh,Priya Sharma,1773242682
+VOTER548,Gujarat,Rajesh Kumar,1773242683
+VOTER549,Delhi,Priya Sharma,1773242684
+VOTER550,Karnataka,Vikram Patel,1773242685
+VOTER551,Rajasthan,Anjali Nair,1773242686
+VOTER552,Telangana,Sunita Reddy,1773242687
+VOTER553,Delhi,Vikram Patel,1773242688
+VOTER554,Maharashtra,Amit Singh,1773242689
+VOTER555,West Bengal,Rahul Verma,1773242690
+VOTER556,Telangana,Amit Singh,1773242691
+VOTER557,Madhya Pradesh,Priya Sharma,1773242692
+VOTER558,Telangana,Anjali Nair,1773242693
+VOTER559,Telangana,Rajesh Kumar,1773242694
+VOTER560,Uttar Pradesh,Anjali Nair,1773242695
+VOTER561,Rajasthan,Rahul Verma,1773242696
+VOTER562,Telangana,Rajesh Kumar,1773242697
+VOTER563,Tamil Nadu,Vikram Patel,1773242698
+VOTER564,Uttar Pradesh,Amit Singh,1773242699
+VOTER565,Kerala,Vikram Patel,1773242700
+VOTER566,Maharashtra,Sunita Reddy,1773242701
+VOTER567,Kerala,Vikram Patel,1773242702
+VOTER568,Kerala,Vikram Patel,1773242703
+VOTER569,Karnataka,Anjali Nair,1773242704
+VOTER570,Gujarat,Sunita Reddy,1773242705
+VOTER571,Madhya Pradesh,Rajesh Kumar,1773242706
+VOTER572,Uttar Pradesh,Amit Singh,1773242707
+VOTER573,Uttar Pradesh,Anjali Nair,1773242708
+VOTER574,Rajasthan,Rahul Verma,1773242709
+VOTER575,Madhya Pradesh,Rahul Verma,1773242710
+VOTER576,Gujarat,Anjali Nair,1773242711
+VOTER577,Andhra Pradesh,Priya Sharma,1773242712
+VOTER578,Rajasthan,Rajesh Kumar,1773242713
+VOTER579,Gujarat,Priya Sharma,1773242714
+VOTER580,Tamil Nadu,Rahul Verma,1773242715
+VOTER581,Madhya Pradesh,Rahul Verma,1773242716
+VOTER582,Rajasthan,Anjali Nair,1773242717
+VOTER583,Tamil Nadu,Sunita Reddy,1773242718
+VOTER584,Rajasthan,Rahul Verma,1773242719
+VOTER585,Kerala,Priya Sharma,1773242720
+VOTER586,Karnataka,Amit Singh,1773242721
+VOTER587,Tamil Nadu,Rahul Verma,1773242722
+VOTER588,Telangana,Amit Singh,1773242723
+VOTER589,West Bengal,Rahul Verma,1773242724
+VOTER590,Maharashtra,Priya Sharma,1773242725
+VOTER591,Tamil Nadu,Sunita Reddy,1773242726
+VOTER592,Karnataka,Priya Sharma,1773242727
+VOTER593,Madhya Pradesh,Priya Sharma,1773242728
+VOTER594,Telangana,Rajesh Kumar,1773242729
+VOTER595,Karnataka,Vikram Patel,1773242730
+VOTER596,Maharashtra,Sunita Reddy,1773242731
+VOTER597,Kerala,Rahul Verma,1773242732
+VOTER598,Madhya Pradesh,Vikram Patel,1773242733
+VOTER599,Karnataka,Priya Sharma,1773242734
+VOTER600,Tamil Nadu,Amit Singh,1773242735
+VOTER601,West Bengal,Vikram Patel,1773242736
+VOTER602,Karnataka,Priya Sharma,1773242737
+VOTER603,Karnataka,Amit Singh,1773242738
+VOTER604,Delhi,Vikram Patel,1773242739
+VOTER605,Rajasthan,Priya Sharma,1773242740
+VOTER606,Madhya Pradesh,Anjali Nair,1773242741
+VOTER607,Telangana,Rajesh Kumar,1773242742
+VOTER608,Delhi,Rahul Verma,1773242743
+VOTER609,Karnataka,Amit Singh,1773242744
+VOTER610,Tamil Nadu,Sunita Reddy,1773242745
+VOTER611,Andhra Pradesh,Vikram Patel,1773242746
+VOTER612,Maharashtra,Amit Singh,1773242747
+VOTER613,Andhra Pradesh,Rahul Verma,1773242748
+VOTER614,Rajasthan,Vikram Patel,1773242749
+VOTER615,Uttar Pradesh,Priya Sharma,1773242750
+VOTER616,Kerala,Anjali Nair,1773242751
+VOTER617,Uttar Pradesh,Rahul Verma,1773242752
+VOTER618,Maharashtra,Rahul Verma,1773242753
+VOTER619,West Bengal,Rajesh Kumar,1773242754
+VOTER620,Uttar Pradesh,Rahul Verma,1773242755
+VOTER621,Uttar Pradesh,Sunita Reddy,1773242756
+VOTER622,Rajasthan,Priya Sharma,1773242757
+VOTER623,Kerala,Vikram Patel,1773242758
+VOTER624,Tamil Nadu,Rahul Verma,1773242759
+VOTER625,Kerala,Rajesh Kumar,1773242760
+VOTER626,Telangana,Sunita Reddy,1773242761
+VOTER627,Kerala,Amit Singh,1773242762
+VOTER628,Karnataka,Vikram Patel,1773242763
+VOTER629,Madhya Pradesh,Sunita Reddy,1773242764
+VOTER630,Delhi,Priya Sharma,1773242765
+VOTER631,Tamil Nadu,Amit Singh,1773242766
+VOTER632,Maharashtra,Rajesh Kumar,1773242767
+VOTER633,Andhra Pradesh,Anjali Nair,1773242768
+VOTER634,Madhya Pradesh,Anjali Nair,1773242769
+VOTER635,Kerala,Priya Sharma,1773242770
+VOTER636,Karnataka,Amit Singh,1773242771
+VOTER637,Delhi,Rajesh Kumar,1773242772
+VOTER638,Delhi,Priya Sharma,1773242773
+VOTER639,Andhra Pradesh,Anjali Nair,1773242774
+VOTER640,Uttar Pradesh,Anjali Nair,1773242775
+VOTER641,Rajasthan,Rajesh Kumar,1773242776
+VOTER642,Tamil Nadu,Rajesh Kumar,1773242777
+VOTER643,Telangana,Rajesh Kumar,1773242778
+VOTER644,Uttar Pradesh,Rajesh Kumar,1773242779
+VOTER645,Gujarat,Anjali Nair,1773242780
+VOTER646,Andhra Pradesh,Rahul Verma,1773242781
+VOTER647,Maharashtra,Vikram Patel,1773242782
+VOTER648,Andhra Pradesh,Vikram Patel,1773242783
+VOTER649,Telangana,Amit Singh,1773242784
+VOTER650,West Bengal,Sunita Reddy,1773242785
+VOTER651,Rajasthan,Vikram Patel,1773242786
+VOTER652,West Bengal,Amit Singh,1773242787
+VOTER653,West Bengal,Sunita Reddy,1773242788
+VOTER654,Maharashtra,Amit Singh,1773242789
+VOTER655,Tamil Nadu,Amit Singh,1773242790
+VOTER656,Andhra Pradesh,Amit Singh,1773242791
+VOTER657,Kerala,Vikram Patel,1773242792
+VOTER658,Andhra Pradesh,Rajesh Kumar,1773242793
+VOTER659,Tamil Nadu,Anjali Nair,1773242794
+VOTER660,Gujarat,Anjali Nair,1773242795
+VOTER661,Telangana,Sunita Reddy,1773242796
+VOTER662,Tamil Nadu,Anjali Nair,1773242797
+VOTER663,Rajasthan,Rahul Verma,1773242798
+VOTER664,Maharashtra,Rahul Verma,1773242799
+VOTER665,Rajasthan,Priya Sharma,1773242800
+VOTER666,Maharashtra,Amit Singh,1773242801
+VOTER667,Maharashtra,Amit Singh,1773242802
+VOTER668,Karnataka,Amit Singh,1773242803
+VOTER669,Telangana,Amit Singh,1773242804
+VOTER670,Kerala,Rahul Verma,1773242805
+VOTER671,Andhra Pradesh,Amit Singh,1773242806
+VOTER672,Tamil Nadu,Vikram Patel,1773242807
+VOTER673,Tamil Nadu,Amit Singh,1773242808
+VOTER674,Telangana,Vikram Patel,1773242809
+VOTER675,Andhra Pradesh,Sunita Reddy,1773242810
+VOTER676,Gujarat,Vikram Patel,1773242811
+VOTER677,Gujarat,Rahul Verma,1773242812
+VOTER678,Kerala,Amit Singh,1773242813
+VOTER679,Telangana,Anjali Nair,1773242814
+VOTER680,Rajasthan,Priya Sharma,1773242815
+VOTER681,Uttar Pradesh,Anjali Nair,1773242816
+VOTER682,Kerala,Sunita Reddy,1773242817
+VOTER683,Gujarat,Priya Sharma,1773242818
+VOTER684,Delhi,Vikram Patel,1773242819
+VOTER685,Rajasthan,Priya Sharma,1773242820
+VOTER686,West Bengal,Rahul Verma,1773242821
+VOTER687,Rajasthan,Rahul Verma,1773242822
+VOTER688,Gujarat,Rajesh Kumar,1773242823
+VOTER689,Karnataka,Rajesh Kumar,1773242824
+VOTER690,Karnataka,Rahul Verma,1773242825
+VOTER691,Rajasthan,Rahul Verma,1773242826
+VOTER692,Andhra Pradesh,Sunita Reddy,1773242827
+VOTER693,West Bengal,Vikram Patel,1773242828
+VOTER694,Telangana,Rahul Verma,1773242829
+VOTER695,Gujarat,Anjali Nair,1773242830
+VOTER696,Delhi,Sunita Reddy,1773242831
+VOTER697,Maharashtra,Anjali Nair,1773242832
+VOTER698,Uttar Pradesh,Anjali Nair,1773242833
+VOTER699,Madhya Pradesh,Vikram Patel,1773242834
+VOTER700,Uttar Pradesh,Vikram Patel,1773242835
+VOTER701,Maharashtra,Rajesh Kumar,1773242836
+VOTER702,Maharashtra,Rahul Verma,1773242837
+VOTER703,West Bengal,Rajesh Kumar,1773242838
+VOTER704,Karnataka,Vikram Patel,1773242839
+VOTER705,Delhi,Priya Sharma,1773242840
+VOTER706,Tamil Nadu,Priya Sharma,1773242841
+VOTER707,Gujarat,Sunita Reddy,1773242842
+VOTER708,Gujarat,Amit Singh,1773242843
+VOTER709,Telangana,Sunita Reddy,1773242844
+VOTER710,Telangana,Anjali Nair,1773242845
+VOTER711,Delhi,Rahul Verma,1773242846
+VOTER712,Rajasthan,Amit Singh,1773242847
+VOTER713,Karnataka,Rahul Verma,1773242848
+VOTER714,Uttar Pradesh,Priya Sharma,1773242849
+VOTER715,Andhra Pradesh,Anjali Nair,1773242850
+VOTER716,Maharashtra,Anjali Nair,1773242851
+VOTER717,Delhi,Vikram Patel,1773242852
+VOTER718,Maharashtra,Vikram Patel,1773242853
+VOTER719,Karnataka,Sunita Reddy,1773242854
+VOTER720,Madhya Pradesh,Amit Singh,1773242855
+VOTER721,Karnataka,Amit Singh,1773242856
+VOTER722,Karnataka,Sunita Reddy,1773242857
+VOTER723,Andhra Pradesh,Sunita Reddy,1773242858
+VOTER724,Rajasthan,Vikram Patel,1773242859
+VOTER725,Maharashtra,Anjali Nair,1773242860
+VOTER726,Andhra Pradesh,Vikram Patel,1773242861
+VOTER727,Gujarat,Anjali Nair,1773242862
+VOTER728,West Bengal,Priya Sharma,1773242863
+VOTER729,Delhi,Rajesh Kumar,1773242864
+VOTER730,Maharashtra,Rahul Verma,1773242865
+VOTER731,Kerala,Priya Sharma,1773242866
+VOTER732,Maharashtra,Vikram Patel,1773242867
+VOTER733,Andhra Pradesh,Vikram Patel,1773242868
+VOTER734,Rajasthan,Amit Singh,1773242869
+VOTER735,Uttar Pradesh,Rahul Verma,1773242870
+VOTER736,Karnataka,Amit Singh,1773242871
+VOTER737,Karnataka,Rahul Verma,1773242872
+VOTER738,Delhi,Rajesh Kumar,1773242873
+VOTER739,Telangana,Anjali Nair,1773242874
+VOTER740,Uttar Pradesh,Rajesh Kumar,1773242875
+VOTER741,Telangana,Vikram Patel,1773242876
+VOTER742,Madhya Pradesh,Rahul Verma,1773242877
+VOTER743,Delhi,Amit Singh,1773242878
+VOTER744,Delhi,Amit Singh,1773242879
+VOTER745,Telangana,Sunita Reddy,1773242880
+VOTER746,Rajasthan,Rahul Verma,1773242881
+VOTER747,Madhya Pradesh,Rahul Verma,1773242882
+VOTER748,Andhra Pradesh,Rajesh Kumar,1773242883
+VOTER749,Delhi,Priya Sharma,1773242884
+VOTER750,West Bengal,Anjali Nair,1773242885
+VOTER751,Uttar Pradesh,Amit Singh,1773242886
+VOTER752,West Bengal,Priya Sharma,1773242887
+VOTER753,Gujarat,Rajesh Kumar,1773242888
+VOTER754,Andhra Pradesh,Vikram Patel,1773242889
+VOTER755,Gujarat,Amit Singh,1773242890
+VOTER756,Gujarat,Rajesh Kumar,1773242891
+VOTER757,Rajasthan,Vikram Patel,1773242892
+VOTER758,Kerala,Sunita Reddy,1773242893
+VOTER759,Andhra Pradesh,Rajesh Kumar,1773242894
+VOTER760,Andhra Pradesh,Priya Sharma,1773242895
+VOTER761,Rajasthan,Vikram Patel,1773242896
+VOTER762,West Bengal,Amit Singh,1773242897
+VOTER763,West Bengal,Rajesh Kumar,1773242898
+VOTER764,West Bengal,Vikram Patel,1773242899
+VOTER765,Delhi,Sunita Reddy,1773242900
+VOTER766,Andhra Pradesh,Priya Sharma,1773242901
+VOTER767,Rajasthan,Sunita Reddy,1773242902
+VOTER768,Andhra Pradesh,Anjali Nair,1773242903
+VOTER769,West Bengal,Amit Singh,1773242904
+VOTER770,Telangana,Rajesh Kumar,1773242905
+VOTER771,Maharashtra,Anjali Nair,1773242906
+VOTER772,Madhya Pradesh,Priya Sharma,1773242907
+VOTER773,Tamil Nadu,Anjali Nair,1773242908
+VOTER774,Delhi,Priya Sharma,1773242909
+VOTER775,Karnataka,Vikram Patel,1773242910
+VOTER776,Delhi,Anjali Nair,1773242911
+VOTER777,Delhi,Rajesh Kumar,1773242912
+VOTER778,Delhi,Priya Sharma,1773242913
+VOTER779,Rajasthan,Anjali Nair,1773242914
+VOTER780,Telangana,Sunita Reddy,1773242915
+VOTER781,Andhra Pradesh,Sunita Reddy,1773242916
+VOTER782,Maharashtra,Priya Sharma,1773242917
+VOTER783,Andhra Pradesh,Amit Singh,1773242918
+VOTER784,West Bengal,Anjali Nair,1773242919
+VOTER785,Gujarat,Rahul Verma,1773242920
+VOTER786,Kerala,Vikram Patel,1773242921
+VOTER787,Madhya Pradesh,Anjali Nair,1773242922
+VOTER788,Andhra Pradesh,Sunita Reddy,1773242923
+VOTER789,Tamil Nadu,Rajesh Kumar,1773242924
+VOTER790,Gujarat,Anjali Nair,1773242925
+VOTER791,Andhra Pradesh,Vikram Patel,1773242926
+VOTER792,Kerala,Vikram Patel,1773242927
+VOTER793,Tamil Nadu,Priya Sharma,1773242928
+VOTER794,Andhra Pradesh,Anjali Nair,1773242929
+VOTER795,Andhra Pradesh,Anjali Nair,1773242930
+VOTER796,Tamil Nadu,Rahul Verma,1773242931
+VOTER797,West Bengal,Anjali Nair,1773242932
+VOTER798,Andhra Pradesh,Rahul Verma,1773242933
+VOTER799,Uttar Pradesh,Vikram Patel,1773242934
+VOTER800,Telangana,Priya Sharma,1773242935
+VOTER801,Telangana,Rajesh Kumar,1773242936
+VOTER802,Karnataka,Anjali Nair,1773242937
+VOTER803,Uttar Pradesh,Vikram Patel,1773242938
+VOTER804,Andhra Pradesh,Rahul Verma,1773242939
+VOTER805,Gujarat,Sunita Reddy,1773242940
+VOTER806,Madhya Pradesh,Rahul Verma,1773242941
+VOTER807,Gujarat,Vikram Patel,1773242942
+VOTER808,Tamil Nadu,Sunita Reddy,1773242943
+VOTER809,Telangana,Anjali Nair,1773242944
+VOTER810,Kerala,Priya Sharma,1773242945
+VOTER811,Delhi,Rahul Verma,1773242946
+VOTER812,Tamil Nadu,Vikram Patel,1773242947
+VOTER813,Madhya Pradesh,Rahul Verma,1773242948
+VOTER814,Gujarat,Vikram Patel,1773242949
+VOTER815,Delhi,Rajesh Kumar,1773242950
+VOTER816,Telangana,Amit Singh,1773242951
+VOTER817,Rajasthan,Sunita Reddy,1773242952
+VOTER818,Telangana,Anjali Nair,1773242953
+VOTER819,Telangana,Vikram Patel,1773242954
+VOTER820,Tamil Nadu,Anjali Nair,1773242955
+VOTER821,Maharashtra,Rahul Verma,1773242956
+VOTER822,Kerala,Vikram Patel,1773242957
+VOTER823,West Bengal,Priya Sharma,1773242958
+VOTER824,Tamil Nadu,Anjali Nair,1773242959
+VOTER825,Madhya Pradesh,Vikram Patel,1773242960
+VOTER826,Tamil Nadu,Vikram Patel,1773242961
+VOTER827,Uttar Pradesh,Priya Sharma,1773242962
+VOTER828,Uttar Pradesh,Rajesh Kumar,1773242963
+VOTER829,Karnataka,Rahul Verma,1773242964
+VOTER830,Tamil Nadu,Amit Singh,1773242965
+VOTER831,Madhya Pradesh,Vikram Patel,1773242966
+VOTER832,Telangana,Rahul Verma,1773242967
+VOTER833,Maharashtra,Rahul Verma,1773242968
+VOTER834,Tamil Nadu,Anjali Nair,1773242969
+VOTER835,Andhra Pradesh,Sunita Reddy,1773242970
+VOTER836,Karnataka,Amit Singh,1773242971
+VOTER837,Andhra Pradesh,Rahul Verma,1773242972
+VOTER838,Rajasthan,Rahul Verma,1773242973
+VOTER839,Kerala,Sunita Reddy,1773242974
+VOTER840,Madhya Pradesh,Priya Sharma,1773242975
+VOTER841,Gujarat,Vikram Patel,1773242976
+VOTER842,Kerala,Priya Sharma,1773242977
+VOTER843,Madhya Pradesh,Rajesh Kumar,1773242978
+VOTER844,Andhra Pradesh,Rajesh Kumar,1773242979
+VOTER845,Maharashtra,Amit Singh,1773242980
+VOTER846,Andhra Pradesh,Anjali Nair,1773242981
+VOTER847,Maharashtra,Rahul Verma,1773242982
+VOTER848,West Bengal,Amit Singh,1773242983
+VOTER849,Tamil Nadu,Priya Sharma,1773242984
+VOTER850,Andhra Pradesh,Amit Singh,1773242985
+VOTER851,Maharashtra,Vikram Patel,1773242986
+VOTER852,Karnataka,Sunita Reddy,1773242987
+VOTER853,Madhya Pradesh,Amit Singh,1773242988
+VOTER854,Andhra Pradesh,Amit Singh,1773242989
+VOTER855,Maharashtra,Vikram Patel,1773242990
+VOTER856,Kerala,Anjali Nair,1773242991
+VOTER857,Gujarat,Amit Singh,1773242992
+VOTER858,Madhya Pradesh,Sunita Reddy,1773242993
+VOTER859,Telangana,Rahul Verma,1773242994
+VOTER860,Telangana,Sunita Reddy,1773242995
+VOTER861,Maharashtra,Rajesh Kumar,1773242996
+VOTER862,Karnataka,Anjali Nair,1773242997
+VOTER863,West Bengal,Priya Sharma,1773242998
+VOTER864,Telangana,Sunita Reddy,1773242999
+VOTER865,Maharashtra,Vikram Patel,1773243000
+VOTER866,Maharashtra,Sunita Reddy,1773243001
+VOTER867,Tamil Nadu,Amit Singh,1773243002
+VOTER868,Gujarat,Vikram Patel,1773243003
+VOTER869,Kerala,Anjali Nair,1773243004
+VOTER870,Tamil Nadu,Anjali Nair,1773243005
+VOTER871,West Bengal,Rajesh Kumar,1773243006
+VOTER872,Delhi,Vikram Patel,1773243007
+VOTER873,Maharashtra,Anjali Nair,1773243008
+VOTER874,Delhi,Vikram Patel,1773243009
+VOTER875,Gujarat,Priya Sharma,1773243010
+VOTER876,Delhi,Amit Singh,1773243011
+VOTER877,Madhya Pradesh,Priya Sharma,1773243012
+VOTER878,Gujarat,Rahul Verma,1773243013
+VOTER879,Andhra Pradesh,Rahul Verma,1773243014
+VOTER880,Delhi,Priya Sharma,1773243015
+VOTER881,Maharashtra,Amit Singh,1773243016
+VOTER882,Delhi,Anjali Nair,1773243017
+VOTER883,Andhra Pradesh,Vikram Patel,1773243018
+VOTER884,Kerala,Amit Singh,1773243019
+VOTER885,Rajasthan,Vikram Patel,1773243020
+VOTER886,Tamil Nadu,Sunita Reddy,1773243021
+VOTER887,Rajasthan,Rajesh Kumar,1773243022
+VOTER888,Kerala,Amit Singh,1773243023
+VOTER889,Kerala,Rahul Verma,1773243024
+VOTER890,Madhya Pradesh,Vikram Patel,1773243025
+VOTER891,Uttar Pradesh,Anjali Nair,1773243026
+VOTER892,Gujarat,Rajesh Kumar,1773243027
+VOTER893,Rajasthan,Priya Sharma,1773243028
+VOTER894,West Bengal,Priya Sharma,1773243029
+VOTER895,Rajasthan,Amit Singh,1773243030
+VOTER896,Gujarat,Sunita Reddy,1773243031
+VOTER897,Kerala,Sunita Reddy,1773243032
+VOTER898,Maharashtra,Priya Sharma,1773243033
+VOTER899,Gujarat,Vikram Patel,1773243034
+VOTER900,Andhra Pradesh,Amit Singh,1773243035
+VOTER901,Maharashtra,Priya Sharma,1773243036
+VOTER902,Karnataka,Sunita Reddy,1773243037
+VOTER903,Uttar Pradesh,Rajesh Kumar,1773243038
+VOTER904,Madhya Pradesh,Priya Sharma,1773243039
+VOTER905,Maharashtra,Rajesh Kumar,1773243040
+VOTER906,West Bengal,Sunita Reddy,1773243041
+VOTER907,Uttar Pradesh,Anjali Nair,1773243042
+VOTER908,Tamil Nadu,Rajesh Kumar,1773243043
+VOTER909,Telangana,Priya Sharma,1773243044
+VOTER910,Madhya Pradesh,Amit Singh,1773243045
+VOTER911,Andhra Pradesh,Priya Sharma,1773243046
+VOTER912,Karnataka,Sunita Reddy,1773243047
+VOTER913,Kerala,Anjali Nair,1773243048
+VOTER914,Kerala,Priya Sharma,1773243049
+VOTER915,Telangana,Amit Singh,1773243050
+VOTER916,Delhi,Priya Sharma,1773243051
+VOTER917,West Bengal,Priya Sharma,1773243052
+VOTER918,Rajasthan,Amit Singh,1773243053
+VOTER919,Uttar Pradesh,Amit Singh,1773243054
+VOTER920,Andhra Pradesh,Rahul Verma,1773243055
+VOTER921,Tamil Nadu,Amit Singh,1773243056
+VOTER922,Kerala,Sunita Reddy,1773243057
+VOTER923,West Bengal,Rahul Verma,1773243058
+VOTER924,West Bengal,Rajesh Kumar,1773243059
+VOTER925,Andhra Pradesh,Rahul Verma,1773243060
+VOTER926,Gujarat,Rahul Verma,1773243061
+VOTER927,Rajasthan,Vikram Patel,1773243062
+VOTER928,Tamil Nadu,Amit Singh,1773243063
+VOTER929,Karnataka,Vikram Patel,1773243064
+VOTER930,Delhi,Amit Singh,1773243065
+VOTER931,Andhra Pradesh,Priya Sharma,1773243066
+VOTER932,Telangana,Sunita Reddy,1773243067
+VOTER933,Andhra Pradesh,Anjali Nair,1773243068
+VOTER934,Maharashtra,Sunita Reddy,1773243069
+VOTER935,Karnataka,Amit Singh,1773243070
+VOTER936,Madhya Pradesh,Anjali Nair,1773243071
+VOTER937,Kerala,Rajesh Kumar,1773243072
+VOTER938,Delhi,Rahul Verma,1773243073
+VOTER939,Delhi,Rahul Verma,1773243074
+VOTER940,Delhi,Anjali Nair,1773243075
+VOTER941,Karnataka,Anjali Nair,1773243076
+VOTER942,Kerala,Rahul Verma,1773243077
+VOTER943,Kerala,Priya Sharma,1773243078
+VOTER944,Maharashtra,Amit Singh,1773243079
+VOTER945,West Bengal,Rajesh Kumar,1773243080
+VOTER946,West Bengal,Amit Singh,1773243081
+VOTER947,Telangana,Anjali Nair,1773243082
+VOTER948,Kerala,Vikram Patel,1773243083
+VOTER949,Maharashtra,Amit Singh,1773243084
+VOTER950,Telangana,Rahul Verma,1773243085
+VOTER951,Telangana,Rajesh Kumar,1773243086
+VOTER952,Rajasthan,Anjali Nair,1773243087
+VOTER953,West Bengal,Rajesh Kumar,1773243088
+VOTER954,Tamil Nadu,Sunita Reddy,1773243089
+VOTER955,Maharashtra,Sunita Reddy,1773243090
+VOTER956,Gujarat,Vikram Patel,1773243091
+VOTER957,West Bengal,Vikram Patel,1773243092
+VOTER958,Maharashtra,Sunita Reddy,1773243093
+VOTER959,Karnataka,Anjali Nair,1773243094
+VOTER960,Karnataka,Anjali Nair,1773243095
+VOTER961,Maharashtra,Amit Singh,1773243096
+VOTER962,Uttar Pradesh,Rajesh Kumar,1773243097
+VOTER963,Andhra Pradesh,Sunita Reddy,1773243098
+VOTER964,Gujarat,Amit Singh,1773243099
+VOTER965,Delhi,Rajesh Kumar,1773243100
+VOTER966,Maharashtra,Rahul Verma,1773243101
+VOTER967,West Bengal,Priya Sharma,1773243102
+VOTER968,Karnataka,Vikram Patel,1773243103
+VOTER969,Karnataka,Vikram Patel,1773243104
+VOTER970,Tamil Nadu,Rajesh Kumar,1773243105
+VOTER971,Karnataka,Anjali Nair,1773243106
+VOTER972,Kerala,Anjali Nair,1773243107
+VOTER973,Gujarat,Rahul Verma,1773243108
+VOTER974,Tamil Nadu,Rajesh Kumar,1773243109
+VOTER975,Rajasthan,Rajesh Kumar,1773243110
+VOTER976,Maharashtra,Vikram Patel,1773243111
+VOTER977,West Bengal,Rahul Verma,1773243112
+VOTER978,Kerala,Rahul Verma,1773243113
+VOTER979,Kerala,Vikram Patel,1773243114
+VOTER980,Andhra Pradesh,Priya Sharma,1773243115
+VOTER981,Madhya Pradesh,Vikram Patel,1773243116
+VOTER982,Karnataka,Rajesh Kumar,1773243117
+VOTER983,Gujarat,Vikram Patel,1773243118
+VOTER984,Maharashtra,Rajesh Kumar,1773243119
+VOTER985,Tamil Nadu,Sunita Reddy,1773243120
+VOTER986,West Bengal,Rajesh Kumar,1773243121
+VOTER987,Rajasthan,Sunita Reddy,1773243122
+VOTER988,Delhi,Amit Singh,1773243123
+VOTER989,Tamil Nadu,Priya Sharma,1773243124
+VOTER990,Andhra Pradesh,Sunita Reddy,1773243125
+VOTER991,Andhra Pradesh,Amit Singh,1773243126
+VOTER992,West Bengal,Amit Singh,1773243127
+VOTER993,Kerala,Amit Singh,1773243128
+VOTER994,Maharashtra,Anjali Nair,1773243129
+VOTER995,Karnataka,Priya Sharma,1773243130
+VOTER996,Uttar Pradesh,Vikram Patel,1773243131
+VOTER997,Karnataka,Amit Singh,1773243132
+VOTER998,Madhya Pradesh,Rajesh Kumar,1773243133
+VOTER999,Uttar Pradesh,Anjali Nair,1773243134
+VOTER1000,Karnataka,Sunita Reddy,1773243135
+m,Andhra Pradesh,Amit Singh,1773242924
+TN234,Maharashtra,Vikram Patel,1773243626
+AP432,Andhra Pradesh,Amit Singh,1773244468
+TN432,Andhra Pradesh,Amit Singh,1773245478
+TN9876,Andhra Pradesh,Amit Singh,1773245712
+TN432,Andhra Pradesh,Amit Singh,1773245996
