@@ -1,1 +1,0 @@
-# smart_vote_pro
