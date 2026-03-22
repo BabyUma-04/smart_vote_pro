@@ -1,1007 +1,1002 @@
-voter_id,region,candidate,timestamp
-VOTER1,Madhya Pradesh,Rahul Verma,1773242136
-VOTER2,Kerala,Rajesh Kumar,1773242137
-VOTER3,Rajasthan,Anjali Nair,1773242138
-VOTER4,Maharashtra,Amit Singh,1773242139
-VOTER5,Madhya Pradesh,Priya Sharma,1773242140
-VOTER6,Andhra Pradesh,Rajesh Kumar,1773242141
-VOTER7,Rajasthan,Sunita Reddy,1773242142
-VOTER8,Tamil Nadu,Sunita Reddy,1773242143
-VOTER9,Madhya Pradesh,Priya Sharma,1773242144
-VOTER10,West Bengal,Vikram Patel,1773242145
-VOTER11,Madhya Pradesh,Sunita Reddy,1773242146
-VOTER12,Karnataka,Rahul Verma,1773242147
-VOTER13,West Bengal,Rahul Verma,1773242148
-VOTER14,Maharashtra,Sunita Reddy,1773242149
-VOTER15,Andhra Pradesh,Vikram Patel,1773242150
-VOTER16,Madhya Pradesh,Priya Sharma,1773242151
-VOTER17,Delhi,Sunita Reddy,1773242152
-VOTER18,Madhya Pradesh,Anjali Nair,1773242153
-VOTER19,Uttar Pradesh,Rajesh Kumar,1773242154
-VOTER20,Rajasthan,Priya Sharma,1773242155
-VOTER21,Gujarat,Anjali Nair,1773242156
-VOTER22,Tamil Nadu,Priya Sharma,1773242157
-VOTER23,Maharashtra,Anjali Nair,1773242158
-VOTER24,Delhi,Rahul Verma,1773242159
-VOTER25,Tamil Nadu,Amit Singh,1773242160
-VOTER26,Kerala,Anjali Nair,1773242161
-VOTER27,Uttar Pradesh,Rahul Verma,1773242162
-VOTER28,Uttar Pradesh,Amit Singh,1773242163
-VOTER29,Gujarat,Rajesh Kumar,1773242164
-VOTER30,Madhya Pradesh,Priya Sharma,1773242165
-VOTER31,Karnataka,Vikram Patel,1773242166
-VOTER32,Kerala,Priya Sharma,1773242167
-VOTER33,Kerala,Sunita Reddy,1773242168
-VOTER34,Gujarat,Sunita Reddy,1773242169
-VOTER35,Kerala,Rajesh Kumar,1773242170
-VOTER36,Gujarat,Anjali Nair,1773242171
-VOTER37,Andhra Pradesh,Vikram Patel,1773242172
-VOTER38,Gujarat,Rahul Verma,1773242173
-VOTER39,Rajasthan,Priya Sharma,1773242174
-VOTER40,Tamil Nadu,Vikram Patel,1773242175
-VOTER41,Rajasthan,Rahul Verma,1773242176
-VOTER42,Delhi,Rajesh Kumar,1773242177
-VOTER43,Uttar Pradesh,Vikram Patel,1773242178
-VOTER44,Maharashtra,Sunita Reddy,1773242179
-VOTER45,Gujarat,Sunita Reddy,1773242180
-VOTER46,Gujarat,Amit Singh,1773242181
-VOTER47,Gujarat,Vikram Patel,1773242182
-VOTER48,Kerala,Priya Sharma,1773242183
-VOTER49,Telangana,Rahul Verma,1773242184
-VOTER50,Telangana,Rahul Verma,1773242185
-VOTER51,Maharashtra,Rajesh Kumar,1773242186
-VOTER52,Maharashtra,Rahul Verma,1773242187
-VOTER53,Uttar Pradesh,Rahul Verma,1773242188
-VOTER54,Delhi,Priya Sharma,1773242189
-VOTER55,Gujarat,Anjali Nair,1773242190
-VOTER56,West Bengal,Sunita Reddy,1773242191
-VOTER57,Gujarat,Priya Sharma,1773242192
-VOTER58,Gujarat,Vikram Patel,1773242193
-VOTER59,Gujarat,Vikram Patel,1773242194
-VOTER60,Andhra Pradesh,Anjali Nair,1773242195
-VOTER61,Karnataka,Vikram Patel,1773242196
-VOTER62,Tamil Nadu,Vikram Patel,1773242197
-VOTER63,Delhi,Anjali Nair,1773242198
-VOTER64,Telangana,Anjali Nair,1773242199
-VOTER65,Tamil Nadu,Vikram Patel,1773242200
-VOTER66,Telangana,Amit Singh,1773242201
-VOTER67,Telangana,Sunita Reddy,1773242202
-VOTER68,West Bengal,Anjali Nair,1773242203
-VOTER69,Gujarat,Rahul Verma,1773242204
-VOTER70,Gujarat,Anjali Nair,1773242205
-VOTER71,Maharashtra,Priya Sharma,1773242206
-VOTER72,Maharashtra,Priya Sharma,1773242207
-VOTER73,Maharashtra,Vikram Patel,1773242208
-VOTER74,Andhra Pradesh,Priya Sharma,1773242209
-VOTER75,Kerala,Priya Sharma,1773242210
-VOTER76,Karnataka,Priya Sharma,1773242211
-VOTER77,Karnataka,Rahul Verma,1773242212
-VOTER78,Gujarat,Anjali Nair,1773242213
-VOTER79,Gujarat,Priya Sharma,1773242214
-VOTER80,Andhra Pradesh,Priya Sharma,1773242215
-VOTER81,Telangana,Rajesh Kumar,1773242216
-VOTER82,Uttar Pradesh,Vikram Patel,1773242217
-VOTER83,Madhya Pradesh,Sunita Reddy,1773242218
-VOTER84,West Bengal,Rahul Verma,1773242219
-VOTER85,Karnataka,Rahul Verma,1773242220
-VOTER86,Kerala,Rahul Verma,1773242221
-VOTER87,Kerala,Sunita Reddy,1773242222
-VOTER88,Madhya Pradesh,Amit Singh,1773242223
-VOTER89,Karnataka,Rahul Verma,1773242224
-VOTER90,Tamil Nadu,Priya Sharma,1773242225
-VOTER91,West Bengal,Rahul Verma,1773242226
-VOTER92,Karnataka,Rahul Verma,1773242227
-VOTER93,Rajasthan,Rajesh Kumar,1773242228
-VOTER94,Tamil Nadu,Amit Singh,1773242229
-VOTER95,Uttar Pradesh,Amit Singh,1773242230
-VOTER96,Gujarat,Sunita Reddy,1773242231
-VOTER97,Karnataka,Rahul Verma,1773242232
-VOTER98,Andhra Pradesh,Anjali Nair,1773242233
-VOTER99,Gujarat,Anjali Nair,1773242234
-VOTER100,Andhra Pradesh,Vikram Patel,1773242235
-VOTER101,Delhi,Sunita Reddy,1773242236
-VOTER102,Gujarat,Rajesh Kumar,1773242237
-VOTER103,Karnataka,Rahul Verma,1773242238
-VOTER104,West Bengal,Vikram Patel,1773242239
-VOTER105,Madhya Pradesh,Sunita Reddy,1773242240
-VOTER106,Maharashtra,Rajesh Kumar,1773242241
-VOTER107,Gujarat,Vikram Patel,1773242242
-VOTER108,West Bengal,Rahul Verma,1773242243
-VOTER109,Rajasthan,Amit Singh,1773242244
-VOTER110,Uttar Pradesh,Priya Sharma,1773242245
-VOTER111,Rajasthan,Priya Sharma,1773242246
-VOTER112,Tamil Nadu,Anjali Nair,1773242247
-VOTER113,Rajasthan,Anjali Nair,1773242248
-VOTER114,Gujarat,Sunita Reddy,1773242249
-VOTER115,Telangana,Vikram Patel,1773242250
-VOTER116,Karnataka,Priya Sharma,1773242251
-VOTER117,Tamil Nadu,Priya Sharma,1773242252
-VOTER118,Telangana,Anjali Nair,1773242253
-VOTER119,Madhya Pradesh,Anjali Nair,1773242254
-VOTER120,Tamil Nadu,Rahul Verma,1773242255
-VOTER121,Gujarat,Sunita Reddy,1773242256
-VOTER122,Delhi,Vikram Patel,1773242257
-VOTER123,Gujarat,Priya Sharma,1773242258
-VOTER124,West Bengal,Amit Singh,1773242259
-VOTER125,Andhra Pradesh,Sunita Reddy,1773242260
-VOTER126,Delhi,Priya Sharma,1773242261
-VOTER127,Gujarat,Rajesh Kumar,1773242262
-VOTER128,Telangana,Anjali Nair,1773242263
-VOTER129,Karnataka,Anjali Nair,1773242264
-VOTER130,Andhra Pradesh,Sunita Reddy,1773242265
-VOTER131,Delhi,Vikram Patel,1773242266
-VOTER132,Delhi,Anjali Nair,1773242267
-VOTER133,Uttar Pradesh,Rahul Verma,1773242268
-VOTER134,Andhra Pradesh,Rahul Verma,1773242269
-VOTER135,Andhra Pradesh,Vikram Patel,1773242270
-VOTER136,Andhra Pradesh,Rahul Verma,1773242271
-VOTER137,Telangana,Priya Sharma,1773242272
-VOTER138,Telangana,Priya Sharma,1773242273
-VOTER139,Delhi,Anjali Nair,1773242274
-VOTER140,Maharashtra,Sunita Reddy,1773242275
-VOTER141,Madhya Pradesh,Amit Singh,1773242276
-VOTER142,Delhi,Priya Sharma,1773242277
-VOTER143,West Bengal,Vikram Patel,1773242278
-VOTER144,Gujarat,Vikram Patel,1773242279
-VOTER145,Kerala,Priya Sharma,1773242280
-VOTER146,Tamil Nadu,Rajesh Kumar,1773242281
-VOTER147,Rajasthan,Sunita Reddy,1773242282
-VOTER148,Maharashtra,Anjali Nair,1773242283
-VOTER149,Delhi,Sunita Reddy,1773242284
-VOTER150,Maharashtra,Rajesh Kumar,1773242285
-VOTER151,West Bengal,Rahul Verma,1773242286
-VOTER152,Andhra Pradesh,Rajesh Kumar,1773242287
-VOTER153,Karnataka,Sunita Reddy,1773242288
-VOTER154,Madhya Pradesh,Sunita Reddy,1773242289
-VOTER155,Rajasthan,Amit Singh,1773242290
-VOTER156,West Bengal,Rahul Verma,1773242291
-VOTER157,Maharashtra,Amit Singh,1773242292
-VOTER158,Maharashtra,Vikram Patel,1773242293
-VOTER159,Kerala,Rahul Verma,1773242294
-VOTER160,Tamil Nadu,Sunita Reddy,1773242295
-VOTER161,Delhi,Rahul Verma,1773242296
-VOTER162,Karnataka,Sunita Reddy,1773242297
-VOTER163,Karnataka,Vikram Patel,1773242298
-VOTER164,Madhya Pradesh,Priya Sharma,1773242299
-VOTER165,Kerala,Amit Singh,1773242300
-VOTER166,Gujarat,Amit Singh,1773242301
-VOTER167,Delhi,Anjali Nair,1773242302
-VOTER168,West Bengal,Priya Sharma,1773242303
-VOTER169,Tamil Nadu,Rajesh Kumar,1773242304
-VOTER170,Tamil Nadu,Anjali Nair,1773242305
-VOTER171,Gujarat,Vikram Patel,1773242306
-VOTER172,Telangana,Rajesh Kumar,1773242307
-VOTER173,Karnataka,Anjali Nair,1773242308
-VOTER174,Delhi,Vikram Patel,1773242309
-VOTER175,Tamil Nadu,Rajesh Kumar,1773242310
-VOTER176,Andhra Pradesh,Anjali Nair,1773242311
-VOTER177,Karnataka,Anjali Nair,1773242312
-VOTER178,Delhi,Amit Singh,1773242313
-VOTER179,Rajasthan,Amit Singh,1773242314
-VOTER180,Maharashtra,Vikram Patel,1773242315
-VOTER181,Tamil Nadu,Anjali Nair,1773242316
-VOTER182,Uttar Pradesh,Sunita Reddy,1773242317
-VOTER183,Andhra Pradesh,Priya Sharma,1773242318
-VOTER184,Madhya Pradesh,Anjali Nair,1773242319
-VOTER185,Andhra Pradesh,Priya Sharma,1773242320
-VOTER186,Rajasthan,Amit Singh,1773242321
-VOTER187,Delhi,Vikram Patel,1773242322
-VOTER188,Uttar Pradesh,Amit Singh,1773242323
-VOTER189,Gujarat,Anjali Nair,1773242324
-VOTER190,Kerala,Priya Sharma,1773242325
-VOTER191,Rajasthan,Rajesh Kumar,1773242326
-VOTER192,West Bengal,Amit Singh,1773242327
-VOTER193,West Bengal,Rahul Verma,1773242328
-VOTER194,Gujarat,Rahul Verma,1773242329
-VOTER195,Uttar Pradesh,Rajesh Kumar,1773242330
-VOTER196,Maharashtra,Rahul Verma,1773242331
-VOTER197,Uttar Pradesh,Amit Singh,1773242332
-VOTER198,Andhra Pradesh,Sunita Reddy,1773242333
-VOTER199,Gujarat,Anjali Nair,1773242334
-VOTER200,Kerala,Priya Sharma,1773242335
-VOTER201,West Bengal,Vikram Patel,1773242336
-VOTER202,Andhra Pradesh,Anjali Nair,1773242337
-VOTER203,Gujarat,Sunita Reddy,1773242338
-VOTER204,Gujarat,Amit Singh,1773242339
-VOTER205,Andhra Pradesh,Priya Sharma,1773242340
-VOTER206,Madhya Pradesh,Vikram Patel,1773242341
-VOTER207,Andhra Pradesh,Sunita Reddy,1773242342
-VOTER208,Maharashtra,Amit Singh,1773242343
-VOTER209,Maharashtra,Sunita Reddy,1773242344
-VOTER210,Delhi,Rajesh Kumar,1773242345
-VOTER211,Andhra Pradesh,Priya Sharma,1773242346
-VOTER212,West Bengal,Anjali Nair,1773242347
-VOTER213,Telangana,Vikram Patel,1773242348
-VOTER214,Madhya Pradesh,Anjali Nair,1773242349
-VOTER215,Andhra Pradesh,Anjali Nair,1773242350
-VOTER216,Madhya Pradesh,Vikram Patel,1773242351
-VOTER217,Kerala,Sunita Reddy,1773242352
-VOTER218,Rajasthan,Vikram Patel,1773242353
-VOTER219,Maharashtra,Priya Sharma,1773242354
-VOTER220,Telangana,Rajesh Kumar,1773242355
-VOTER221,Madhya Pradesh,Amit Singh,1773242356
-VOTER222,Rajasthan,Priya Sharma,1773242357
-VOTER223,Uttar Pradesh,Anjali Nair,1773242358
-VOTER224,Delhi,Amit Singh,1773242359
-VOTER225,Telangana,Sunita Reddy,1773242360
-VOTER226,Telangana,Anjali Nair,1773242361
-VOTER227,Maharashtra,Anjali Nair,1773242362
-VOTER228,Uttar Pradesh,Rahul Verma,1773242363
-VOTER229,Telangana,Rahul Verma,1773242364
-VOTER230,Tamil Nadu,Priya Sharma,1773242365
-VOTER231,Tamil Nadu,Anjali Nair,1773242366
-VOTER232,West Bengal,Rajesh Kumar,1773242367
-VOTER233,Rajasthan,Anjali Nair,1773242368
-VOTER234,Andhra Pradesh,Priya Sharma,1773242369
-VOTER235,Gujarat,Sunita Reddy,1773242370
-VOTER236,Delhi,Anjali Nair,1773242371
-VOTER237,Karnataka,Priya Sharma,1773242372
-VOTER238,Uttar Pradesh,Rajesh Kumar,1773242373
-VOTER239,Karnataka,Priya Sharma,1773242374
-VOTER240,West Bengal,Anjali Nair,1773242375
-VOTER241,Telangana,Rahul Verma,1773242376
-VOTER242,Telangana,Anjali Nair,1773242377
-VOTER243,Tamil Nadu,Vikram Patel,1773242378
-VOTER244,West Bengal,Vikram Patel,1773242379
-VOTER245,Rajasthan,Vikram Patel,1773242380
-VOTER246,Maharashtra,Rahul Verma,1773242381
-VOTER247,Kerala,Anjali Nair,1773242382
-VOTER248,Karnataka,Vikram Patel,1773242383
-VOTER249,Gujarat,Vikram Patel,1773242384
-VOTER250,Telangana,Vikram Patel,1773242385
-VOTER251,Kerala,Rajesh Kumar,1773242386
-VOTER252,Maharashtra,Rajesh Kumar,1773242387
-VOTER253,West Bengal,Rahul Verma,1773242388
-VOTER254,Tamil Nadu,Anjali Nair,1773242389
-VOTER255,Karnataka,Anjali Nair,1773242390
-VOTER256,Gujarat,Priya Sharma,1773242391
-VOTER257,Telangana,Priya Sharma,1773242392
-VOTER258,Rajasthan,Sunita Reddy,1773242393
-VOTER259,Telangana,Amit Singh,1773242394
-VOTER260,Andhra Pradesh,Priya Sharma,1773242395
-VOTER261,Rajasthan,Vikram Patel,1773242396
-VOTER262,Gujarat,Anjali Nair,1773242397
-VOTER263,Rajasthan,Rajesh Kumar,1773242398
-VOTER264,Maharashtra,Rahul Verma,1773242399
-VOTER265,West Bengal,Vikram Patel,1773242400
-VOTER266,Rajasthan,Rahul Verma,1773242401
-VOTER267,Uttar Pradesh,Sunita Reddy,1773242402
-VOTER268,Tamil Nadu,Rahul Verma,1773242403
-VOTER269,Delhi,Anjali Nair,1773242404
-VOTER270,Telangana,Priya Sharma,1773242405
-VOTER271,Maharashtra,Sunita Reddy,1773242406
-VOTER272,Delhi,Sunita Reddy,1773242407
-VOTER273,West Bengal,Amit Singh,1773242408
-VOTER274,Maharashtra,Vikram Patel,1773242409
-VOTER275,Karnataka,Anjali Nair,1773242410
-VOTER276,Madhya Pradesh,Priya Sharma,1773242411
-VOTER277,Andhra Pradesh,Rahul Verma,1773242412
-VOTER278,Karnataka,Anjali Nair,1773242413
-VOTER279,Delhi,Vikram Patel,1773242414
-VOTER280,Karnataka,Amit Singh,1773242415
-VOTER281,Madhya Pradesh,Sunita Reddy,1773242416
-VOTER282,Maharashtra,Vikram Patel,1773242417
-VOTER283,Rajasthan,Sunita Reddy,1773242418
-VOTER284,Andhra Pradesh,Vikram Patel,1773242419
-VOTER285,Uttar Pradesh,Anjali Nair,1773242420
-VOTER286,West Bengal,Amit Singh,1773242421
-VOTER287,Rajasthan,Amit Singh,1773242422
-VOTER288,Telangana,Rajesh Kumar,1773242423
-VOTER289,Karnataka,Vikram Patel,1773242424
-VOTER290,Maharashtra,Sunita Reddy,1773242425
-VOTER291,Maharashtra,Vikram Patel,1773242426
-VOTER292,Delhi,Rahul Verma,1773242427
-VOTER293,Kerala,Anjali Nair,1773242428
-VOTER294,Andhra Pradesh,Rahul Verma,1773242429
-VOTER295,Andhra Pradesh,Vikram Patel,1773242430
-VOTER296,Gujarat,Vikram Patel,1773242431
-VOTER297,Uttar Pradesh,Sunita Reddy,1773242432
-VOTER298,Maharashtra,Sunita Reddy,1773242433
-VOTER299,Delhi,Rajesh Kumar,1773242434
-VOTER300,West Bengal,Priya Sharma,1773242435
-VOTER301,West Bengal,Amit Singh,1773242436
-VOTER302,Karnataka,Amit Singh,1773242437
-VOTER303,Kerala,Anjali Nair,1773242438
-VOTER304,Madhya Pradesh,Amit Singh,1773242439
-VOTER305,West Bengal,Anjali Nair,1773242440
-VOTER306,Andhra Pradesh,Vikram Patel,1773242441
-VOTER307,Delhi,Sunita Reddy,1773242442
-VOTER308,West Bengal,Rahul Verma,1773242443
-VOTER309,Delhi,Rajesh Kumar,1773242444
-VOTER310,Gujarat,Sunita Reddy,1773242445
-VOTER311,Andhra Pradesh,Rajesh Kumar,1773242446
-VOTER312,Andhra Pradesh,Sunita Reddy,1773242447
-VOTER313,Uttar Pradesh,Sunita Reddy,1773242448
-VOTER314,Telangana,Sunita Reddy,1773242449
-VOTER315,Madhya Pradesh,Rajesh Kumar,1773242450
-VOTER316,Madhya Pradesh,Rahul Verma,1773242451
-VOTER317,Andhra Pradesh,Anjali Nair,1773242452
-VOTER318,West Bengal,Amit Singh,1773242453
-VOTER319,Karnataka,Priya Sharma,1773242454
-VOTER320,Rajasthan,Anjali Nair,1773242455
-VOTER321,Kerala,Rahul Verma,1773242456
-VOTER322,Uttar Pradesh,Anjali Nair,1773242457
-VOTER323,Kerala,Anjali Nair,1773242458
-VOTER324,Tamil Nadu,Sunita Reddy,1773242459
-VOTER325,West Bengal,Amit Singh,1773242460
-VOTER326,West Bengal,Amit Singh,1773242461
-VOTER327,Madhya Pradesh,Vikram Patel,1773242462
-VOTER328,Karnataka,Sunita Reddy,1773242463
-VOTER329,Uttar Pradesh,Rahul Verma,1773242464
-VOTER330,Gujarat,Priya Sharma,1773242465
-VOTER331,West Bengal,Rajesh Kumar,1773242466
-VOTER332,Delhi,Amit Singh,1773242467
-VOTER333,Uttar Pradesh,Priya Sharma,1773242468
-VOTER334,Gujarat,Priya Sharma,1773242469
-VOTER335,Tamil Nadu,Priya Sharma,1773242470
-VOTER336,Kerala,Priya Sharma,1773242471
-VOTER337,Gujarat,Rajesh Kumar,1773242472
-VOTER338,Maharashtra,Amit Singh,1773242473
-VOTER339,Andhra Pradesh,Rajesh Kumar,1773242474
-VOTER340,West Bengal,Sunita Reddy,1773242475
-VOTER341,Delhi,Sunita Reddy,1773242476
-VOTER342,Delhi,Rajesh Kumar,1773242477
-VOTER343,Tamil Nadu,Sunita Reddy,1773242478
-VOTER344,Maharashtra,Vikram Patel,1773242479
-VOTER345,Delhi,Rajesh Kumar,1773242480
-VOTER346,West Bengal,Sunita Reddy,1773242481
-VOTER347,Delhi,Sunita Reddy,1773242482
-VOTER348,Rajasthan,Anjali Nair,1773242483
-VOTER349,Gujarat,Anjali Nair,1773242484
-VOTER350,Madhya Pradesh,Priya Sharma,1773242485
-VOTER351,Andhra Pradesh,Amit Singh,1773242486
-VOTER352,Gujarat,Vikram Patel,1773242487
-VOTER353,Telangana,Vikram Patel,1773242488
-VOTER354,Telangana,Vikram Patel,1773242489
-VOTER355,Delhi,Rajesh Kumar,1773242490
-VOTER356,Gujarat,Rahul Verma,1773242491
-VOTER357,Madhya Pradesh,Vikram Patel,1773242492
-VOTER358,Uttar Pradesh,Rahul Verma,1773242493
-VOTER359,Tamil Nadu,Anjali Nair,1773242494
-VOTER360,Tamil Nadu,Anjali Nair,1773242495
-VOTER361,Delhi,Sunita Reddy,1773242496
-VOTER362,Karnataka,Amit Singh,1773242497
-VOTER363,Kerala,Rahul Verma,1773242498
-VOTER364,Kerala,Anjali Nair,1773242499
-VOTER365,Gujarat,Priya Sharma,1773242500
-VOTER366,Delhi,Anjali Nair,1773242501
-VOTER367,Gujarat,Priya Sharma,1773242502
-VOTER368,Maharashtra,Rajesh Kumar,1773242503
-VOTER369,Telangana,Vikram Patel,1773242504
-VOTER370,Delhi,Vikram Patel,1773242505
-VOTER371,Madhya Pradesh,Sunita Reddy,1773242506
-VOTER372,Maharashtra,Vikram Patel,1773242507
-VOTER373,Gujarat,Rahul Verma,1773242508
-VOTER374,Madhya Pradesh,Rahul Verma,1773242509
-VOTER375,Tamil Nadu,Sunita Reddy,1773242510
-VOTER376,Andhra Pradesh,Rahul Verma,1773242511
-VOTER377,Gujarat,Rajesh Kumar,1773242512
-VOTER378,Maharashtra,Sunita Reddy,1773242513
-VOTER379,Kerala,Anjali Nair,1773242514
-VOTER380,Delhi,Amit Singh,1773242515
-VOTER381,Tamil Nadu,Priya Sharma,1773242516
-VOTER382,Delhi,Vikram Patel,1773242517
-VOTER383,Telangana,Priya Sharma,1773242518
-VOTER384,Karnataka,Rahul Verma,1773242519
-VOTER385,West Bengal,Sunita Reddy,1773242520
-VOTER386,Madhya Pradesh,Priya Sharma,1773242521
-VOTER387,Tamil Nadu,Sunita Reddy,1773242522
-VOTER388,Karnataka,Vikram Patel,1773242523
-VOTER389,Karnataka,Rajesh Kumar,1773242524
-VOTER390,Madhya Pradesh,Priya Sharma,1773242525
-VOTER391,Uttar Pradesh,Sunita Reddy,1773242526
-VOTER392,Maharashtra,Rajesh Kumar,1773242527
-VOTER393,Kerala,Amit Singh,1773242528
-VOTER394,Telangana,Rajesh Kumar,1773242529
-VOTER395,Maharashtra,Vikram Patel,1773242530
-VOTER396,Gujarat,Rajesh Kumar,1773242531
-VOTER397,Delhi,Rahul Verma,1773242532
-VOTER398,Rajasthan,Anjali Nair,1773242533
-VOTER399,Uttar Pradesh,Rahul Verma,1773242534
-VOTER400,West Bengal,Priya Sharma,1773242535
-VOTER401,West Bengal,Sunita Reddy,1773242536
-VOTER402,Gujarat,Anjali Nair,1773242537
-VOTER403,West Bengal,Anjali Nair,1773242538
-VOTER404,Karnataka,Rahul Verma,1773242539
-VOTER405,Andhra Pradesh,Priya Sharma,1773242540
-VOTER406,Andhra Pradesh,Vikram Patel,1773242541
-VOTER407,Tamil Nadu,Rahul Verma,1773242542
-VOTER408,Tamil Nadu,Priya Sharma,1773242543
-VOTER409,Uttar Pradesh,Rahul Verma,1773242544
-VOTER410,Tamil Nadu,Rajesh Kumar,1773242545
-VOTER411,Delhi,Sunita Reddy,1773242546
-VOTER412,Karnataka,Sunita Reddy,1773242547
-VOTER413,Uttar Pradesh,Anjali Nair,1773242548
-VOTER414,Andhra Pradesh,Amit Singh,1773242549
-VOTER415,Andhra Pradesh,Rahul Verma,1773242550
-VOTER416,Karnataka,Sunita Reddy,1773242551
-VOTER417,Delhi,Anjali Nair,1773242552
-VOTER418,Madhya Pradesh,Rajesh Kumar,1773242553
-VOTER419,Rajasthan,Vikram Patel,1773242554
-VOTER420,Tamil Nadu,Amit Singh,1773242555
-VOTER421,Uttar Pradesh,Priya Sharma,1773242556
-VOTER422,Andhra Pradesh,Rahul Verma,1773242557
-VOTER423,West Bengal,Anjali Nair,1773242558
-VOTER424,Andhra Pradesh,Anjali Nair,1773242559
-VOTER425,Madhya Pradesh,Rajesh Kumar,1773242560
-VOTER426,Telangana,Rahul Verma,1773242561
-VOTER427,Maharashtra,Amit Singh,1773242562
-VOTER428,Tamil Nadu,Vikram Patel,1773242563
-VOTER429,Kerala,Rajesh Kumar,1773242564
-VOTER430,Madhya Pradesh,Anjali Nair,1773242565
-VOTER431,Tamil Nadu,Rahul Verma,1773242566
-VOTER432,Rajasthan,Rajesh Kumar,1773242567
-VOTER433,Gujarat,Amit Singh,1773242568
-VOTER434,Uttar Pradesh,Anjali Nair,1773242569
-VOTER435,Kerala,Anjali Nair,1773242570
-VOTER436,Uttar Pradesh,Priya Sharma,1773242571
-VOTER437,Delhi,Rahul Verma,1773242572
-VOTER438,Gujarat,Amit Singh,1773242573
-VOTER439,Andhra Pradesh,Rahul Verma,1773242574
-VOTER440,Karnataka,Sunita Reddy,1773242575
-VOTER441,Karnataka,Amit Singh,1773242576
-VOTER442,Maharashtra,Sunita Reddy,1773242577
-VOTER443,Gujarat,Amit Singh,1773242578
-VOTER444,Andhra Pradesh,Anjali Nair,1773242579
-VOTER445,West Bengal,Rahul Verma,1773242580
-VOTER446,Karnataka,Rajesh Kumar,1773242581
-VOTER447,Tamil Nadu,Sunita Reddy,1773242582
-VOTER448,Delhi,Rahul Verma,1773242583
-VOTER449,Madhya Pradesh,Sunita Reddy,1773242584
-VOTER450,Gujarat,Sunita Reddy,1773242585
-VOTER451,Delhi,Vikram Patel,1773242586
-VOTER452,Madhya Pradesh,Priya Sharma,1773242587
-VOTER453,Gujarat,Anjali Nair,1773242588
-VOTER454,Tamil Nadu,Anjali Nair,1773242589
-VOTER455,Telangana,Vikram Patel,1773242590
-VOTER456,Kerala,Vikram Patel,1773242591
-VOTER457,Maharashtra,Anjali Nair,1773242592
-VOTER458,Karnataka,Rahul Verma,1773242593
-VOTER459,Karnataka,Sunita Reddy,1773242594
-VOTER460,West Bengal,Sunita Reddy,1773242595
-VOTER461,West Bengal,Amit Singh,1773242596
-VOTER462,Tamil Nadu,Vikram Patel,1773242597
-VOTER463,Delhi,Rahul Verma,1773242598
-VOTER464,Karnataka,Anjali Nair,1773242599
-VOTER465,Andhra Pradesh,Rahul Verma,1773242600
-VOTER466,Delhi,Anjali Nair,1773242601
-VOTER467,Karnataka,Sunita Reddy,1773242602
-VOTER468,Andhra Pradesh,Vikram Patel,1773242603
-VOTER469,Andhra Pradesh,Sunita Reddy,1773242604
-VOTER470,Maharashtra,Rajesh Kumar,1773242605
-VOTER471,Karnataka,Anjali Nair,1773242606
-VOTER472,Rajasthan,Priya Sharma,1773242607
-VOTER473,Delhi,Vikram Patel,1773242608
-VOTER474,Kerala,Rahul Verma,1773242609
-VOTER475,Andhra Pradesh,Anjali Nair,1773242610
-VOTER476,Uttar Pradesh,Priya Sharma,1773242611
-VOTER477,Andhra Pradesh,Anjali Nair,1773242612
-VOTER478,Rajasthan,Priya Sharma,1773242613
-VOTER479,Karnataka,Rahul Verma,1773242614
-VOTER480,Tamil Nadu,Amit Singh,1773242615
-VOTER481,Delhi,Priya Sharma,1773242616
-VOTER482,Delhi,Priya Sharma,1773242617
-VOTER483,Andhra Pradesh,Rahul Verma,1773242618
-VOTER484,Uttar Pradesh,Vikram Patel,1773242619
-VOTER485,West Bengal,Anjali Nair,1773242620
-VOTER486,Rajasthan,Anjali Nair,1773242621
-VOTER487,West Bengal,Vikram Patel,1773242622
-VOTER488,Gujarat,Rahul Verma,1773242623
-VOTER489,Maharashtra,Rahul Verma,1773242624
-VOTER490,Andhra Pradesh,Anjali Nair,1773242625
-VOTER491,Maharashtra,Rahul Verma,1773242626
-VOTER492,Delhi,Rahul Verma,1773242627
-VOTER493,Gujarat,Priya Sharma,1773242628
-VOTER494,Telangana,Anjali Nair,1773242629
-VOTER495,Karnataka,Amit Singh,1773242630
-VOTER496,Maharashtra,Rajesh Kumar,1773242631
-VOTER497,Kerala,Rahul Verma,1773242632
-VOTER498,Andhra Pradesh,Amit Singh,1773242633
-VOTER499,Rajasthan,Vikram Patel,1773242634
-VOTER500,West Bengal,Rahul Verma,1773242635
-VOTER501,Uttar Pradesh,Sunita Reddy,1773242636
-VOTER502,Telangana,Rahul Verma,1773242637
-VOTER503,Tamil Nadu,Priya Sharma,1773242638
-VOTER504,Delhi,Sunita Reddy,1773242639
-VOTER505,Gujarat,Amit Singh,1773242640
-VOTER506,Tamil Nadu,Rahul Verma,1773242641
-VOTER507,Andhra Pradesh,Amit Singh,1773242642
-VOTER508,Maharashtra,Rahul Verma,1773242643
-VOTER509,Andhra Pradesh,Anjali Nair,1773242644
-VOTER510,Delhi,Rajesh Kumar,1773242645
-VOTER511,Rajasthan,Rajesh Kumar,1773242646
-VOTER512,Gujarat,Priya Sharma,1773242647
-VOTER513,Andhra Pradesh,Rahul Verma,1773242648
-VOTER514,West Bengal,Anjali Nair,1773242649
-VOTER515,Maharashtra,Anjali Nair,1773242650
-VOTER516,Karnataka,Amit Singh,1773242651
-VOTER517,Delhi,Sunita Reddy,1773242652
-VOTER518,Rajasthan,Anjali Nair,1773242653
-VOTER519,Rajasthan,Vikram Patel,1773242654
-VOTER520,Tamil Nadu,Priya Sharma,1773242655
-VOTER521,Uttar Pradesh,Anjali Nair,1773242656
-VOTER522,Maharashtra,Sunita Reddy,1773242657
-VOTER523,Maharashtra,Priya Sharma,1773242658
-VOTER524,Telangana,Vikram Patel,1773242659
-VOTER525,Rajasthan,Rahul Verma,1773242660
-VOTER526,Karnataka,Priya Sharma,1773242661
-VOTER527,Telangana,Priya Sharma,1773242662
-VOTER528,Gujarat,Rahul Verma,1773242663
-VOTER529,Rajasthan,Rahul Verma,1773242664
-VOTER530,Tamil Nadu,Rajesh Kumar,1773242665
-VOTER531,Telangana,Priya Sharma,1773242666
-VOTER532,Telangana,Rajesh Kumar,1773242667
-VOTER533,Delhi,Anjali Nair,1773242668
-VOTER534,Maharashtra,Priya Sharma,1773242669
-VOTER535,Kerala,Sunita Reddy,1773242670
-VOTER536,Telangana,Vikram Patel,1773242671
-VOTER537,West Bengal,Amit Singh,1773242672
-VOTER538,Andhra Pradesh,Sunita Reddy,1773242673
-VOTER539,Telangana,Priya Sharma,1773242674
-VOTER540,Karnataka,Amit Singh,1773242675
-VOTER541,Uttar Pradesh,Amit Singh,1773242676
-VOTER542,Telangana,Priya Sharma,1773242677
-VOTER543,Uttar Pradesh,Anjali Nair,1773242678
-VOTER544,Madhya Pradesh,Amit Singh,1773242679
-VOTER545,Rajasthan,Priya Sharma,1773242680
-VOTER546,Andhra Pradesh,Rahul Verma,1773242681
-VOTER547,Uttar Pradesh,Priya Sharma,1773242682
-VOTER548,Gujarat,Rajesh Kumar,1773242683
-VOTER549,Delhi,Priya Sharma,1773242684
-VOTER550,Karnataka,Vikram Patel,1773242685
-VOTER551,Rajasthan,Anjali Nair,1773242686
-VOTER552,Telangana,Sunita Reddy,1773242687
-VOTER553,Delhi,Vikram Patel,1773242688
-VOTER554,Maharashtra,Amit Singh,1773242689
-VOTER555,West Bengal,Rahul Verma,1773242690
-VOTER556,Telangana,Amit Singh,1773242691
-VOTER557,Madhya Pradesh,Priya Sharma,1773242692
-VOTER558,Telangana,Anjali Nair,1773242693
-VOTER559,Telangana,Rajesh Kumar,1773242694
-VOTER560,Uttar Pradesh,Anjali Nair,1773242695
-VOTER561,Rajasthan,Rahul Verma,1773242696
-VOTER562,Telangana,Rajesh Kumar,1773242697
-VOTER563,Tamil Nadu,Vikram Patel,1773242698
-VOTER564,Uttar Pradesh,Amit Singh,1773242699
-VOTER565,Kerala,Vikram Patel,1773242700
-VOTER566,Maharashtra,Sunita Reddy,1773242701
-VOTER567,Kerala,Vikram Patel,1773242702
-VOTER568,Kerala,Vikram Patel,1773242703
-VOTER569,Karnataka,Anjali Nair,1773242704
-VOTER570,Gujarat,Sunita Reddy,1773242705
-VOTER571,Madhya Pradesh,Rajesh Kumar,1773242706
-VOTER572,Uttar Pradesh,Amit Singh,1773242707
-VOTER573,Uttar Pradesh,Anjali Nair,1773242708
-VOTER574,Rajasthan,Rahul Verma,1773242709
-VOTER575,Madhya Pradesh,Rahul Verma,1773242710
-VOTER576,Gujarat,Anjali Nair,1773242711
-VOTER577,Andhra Pradesh,Priya Sharma,1773242712
-VOTER578,Rajasthan,Rajesh Kumar,1773242713
-VOTER579,Gujarat,Priya Sharma,1773242714
-VOTER580,Tamil Nadu,Rahul Verma,1773242715
-VOTER581,Madhya Pradesh,Rahul Verma,1773242716
-VOTER582,Rajasthan,Anjali Nair,1773242717
-VOTER583,Tamil Nadu,Sunita Reddy,1773242718
-VOTER584,Rajasthan,Rahul Verma,1773242719
-VOTER585,Kerala,Priya Sharma,1773242720
-VOTER586,Karnataka,Amit Singh,1773242721
-VOTER587,Tamil Nadu,Rahul Verma,1773242722
-VOTER588,Telangana,Amit Singh,1773242723
-VOTER589,West Bengal,Rahul Verma,1773242724
-VOTER590,Maharashtra,Priya Sharma,1773242725
-VOTER591,Tamil Nadu,Sunita Reddy,1773242726
-VOTER592,Karnataka,Priya Sharma,1773242727
-VOTER593,Madhya Pradesh,Priya Sharma,1773242728
-VOTER594,Telangana,Rajesh Kumar,1773242729
-VOTER595,Karnataka,Vikram Patel,1773242730
-VOTER596,Maharashtra,Sunita Reddy,1773242731
-VOTER597,Kerala,Rahul Verma,1773242732
-VOTER598,Madhya Pradesh,Vikram Patel,1773242733
-VOTER599,Karnataka,Priya Sharma,1773242734
-VOTER600,Tamil Nadu,Amit Singh,1773242735
-VOTER601,West Bengal,Vikram Patel,1773242736
-VOTER602,Karnataka,Priya Sharma,1773242737
-VOTER603,Karnataka,Amit Singh,1773242738
-VOTER604,Delhi,Vikram Patel,1773242739
-VOTER605,Rajasthan,Priya Sharma,1773242740
-VOTER606,Madhya Pradesh,Anjali Nair,1773242741
-VOTER607,Telangana,Rajesh Kumar,1773242742
-VOTER608,Delhi,Rahul Verma,1773242743
-VOTER609,Karnataka,Amit Singh,1773242744
-VOTER610,Tamil Nadu,Sunita Reddy,1773242745
-VOTER611,Andhra Pradesh,Vikram Patel,1773242746
-VOTER612,Maharashtra,Amit Singh,1773242747
-VOTER613,Andhra Pradesh,Rahul Verma,1773242748
-VOTER614,Rajasthan,Vikram Patel,1773242749
-VOTER615,Uttar Pradesh,Priya Sharma,1773242750
-VOTER616,Kerala,Anjali Nair,1773242751
-VOTER617,Uttar Pradesh,Rahul Verma,1773242752
-VOTER618,Maharashtra,Rahul Verma,1773242753
-VOTER619,West Bengal,Rajesh Kumar,1773242754
-VOTER620,Uttar Pradesh,Rahul Verma,1773242755
-VOTER621,Uttar Pradesh,Sunita Reddy,1773242756
-VOTER622,Rajasthan,Priya Sharma,1773242757
-VOTER623,Kerala,Vikram Patel,1773242758
-VOTER624,Tamil Nadu,Rahul Verma,1773242759
-VOTER625,Kerala,Rajesh Kumar,1773242760
-VOTER626,Telangana,Sunita Reddy,1773242761
-VOTER627,Kerala,Amit Singh,1773242762
-VOTER628,Karnataka,Vikram Patel,1773242763
-VOTER629,Madhya Pradesh,Sunita Reddy,1773242764
-VOTER630,Delhi,Priya Sharma,1773242765
-VOTER631,Tamil Nadu,Amit Singh,1773242766
-VOTER632,Maharashtra,Rajesh Kumar,1773242767
-VOTER633,Andhra Pradesh,Anjali Nair,1773242768
-VOTER634,Madhya Pradesh,Anjali Nair,1773242769
-VOTER635,Kerala,Priya Sharma,1773242770
-VOTER636,Karnataka,Amit Singh,1773242771
-VOTER637,Delhi,Rajesh Kumar,1773242772
-VOTER638,Delhi,Priya Sharma,1773242773
-VOTER639,Andhra Pradesh,Anjali Nair,1773242774
-VOTER640,Uttar Pradesh,Anjali Nair,1773242775
-VOTER641,Rajasthan,Rajesh Kumar,1773242776
-VOTER642,Tamil Nadu,Rajesh Kumar,1773242777
-VOTER643,Telangana,Rajesh Kumar,1773242778
-VOTER644,Uttar Pradesh,Rajesh Kumar,1773242779
-VOTER645,Gujarat,Anjali Nair,1773242780
-VOTER646,Andhra Pradesh,Rahul Verma,1773242781
-VOTER647,Maharashtra,Vikram Patel,1773242782
-VOTER648,Andhra Pradesh,Vikram Patel,1773242783
-VOTER649,Telangana,Amit Singh,1773242784
-VOTER650,West Bengal,Sunita Reddy,1773242785
-VOTER651,Rajasthan,Vikram Patel,1773242786
-VOTER652,West Bengal,Amit Singh,1773242787
-VOTER653,West Bengal,Sunita Reddy,1773242788
-VOTER654,Maharashtra,Amit Singh,1773242789
-VOTER655,Tamil Nadu,Amit Singh,1773242790
-VOTER656,Andhra Pradesh,Amit Singh,1773242791
-VOTER657,Kerala,Vikram Patel,1773242792
-VOTER658,Andhra Pradesh,Rajesh Kumar,1773242793
-VOTER659,Tamil Nadu,Anjali Nair,1773242794
-VOTER660,Gujarat,Anjali Nair,1773242795
-VOTER661,Telangana,Sunita Reddy,1773242796
-VOTER662,Tamil Nadu,Anjali Nair,1773242797
-VOTER663,Rajasthan,Rahul Verma,1773242798
-VOTER664,Maharashtra,Rahul Verma,1773242799
-VOTER665,Rajasthan,Priya Sharma,1773242800
-VOTER666,Maharashtra,Amit Singh,1773242801
-VOTER667,Maharashtra,Amit Singh,1773242802
-VOTER668,Karnataka,Amit Singh,1773242803
-VOTER669,Telangana,Amit Singh,1773242804
-VOTER670,Kerala,Rahul Verma,1773242805
-VOTER671,Andhra Pradesh,Amit Singh,1773242806
-VOTER672,Tamil Nadu,Vikram Patel,1773242807
-VOTER673,Tamil Nadu,Amit Singh,1773242808
-VOTER674,Telangana,Vikram Patel,1773242809
-VOTER675,Andhra Pradesh,Sunita Reddy,1773242810
-VOTER676,Gujarat,Vikram Patel,1773242811
-VOTER677,Gujarat,Rahul Verma,1773242812
-VOTER678,Kerala,Amit Singh,1773242813
-VOTER679,Telangana,Anjali Nair,1773242814
-VOTER680,Rajasthan,Priya Sharma,1773242815
-VOTER681,Uttar Pradesh,Anjali Nair,1773242816
-VOTER682,Kerala,Sunita Reddy,1773242817
-VOTER683,Gujarat,Priya Sharma,1773242818
-VOTER684,Delhi,Vikram Patel,1773242819
-VOTER685,Rajasthan,Priya Sharma,1773242820
-VOTER686,West Bengal,Rahul Verma,1773242821
-VOTER687,Rajasthan,Rahul Verma,1773242822
-VOTER688,Gujarat,Rajesh Kumar,1773242823
-VOTER689,Karnataka,Rajesh Kumar,1773242824
-VOTER690,Karnataka,Rahul Verma,1773242825
-VOTER691,Rajasthan,Rahul Verma,1773242826
-VOTER692,Andhra Pradesh,Sunita Reddy,1773242827
-VOTER693,West Bengal,Vikram Patel,1773242828
-VOTER694,Telangana,Rahul Verma,1773242829
-VOTER695,Gujarat,Anjali Nair,1773242830
-VOTER696,Delhi,Sunita Reddy,1773242831
-VOTER697,Maharashtra,Anjali Nair,1773242832
-VOTER698,Uttar Pradesh,Anjali Nair,1773242833
-VOTER699,Madhya Pradesh,Vikram Patel,1773242834
-VOTER700,Uttar Pradesh,Vikram Patel,1773242835
-VOTER701,Maharashtra,Rajesh Kumar,1773242836
-VOTER702,Maharashtra,Rahul Verma,1773242837
-VOTER703,West Bengal,Rajesh Kumar,1773242838
-VOTER704,Karnataka,Vikram Patel,1773242839
-VOTER705,Delhi,Priya Sharma,1773242840
-VOTER706,Tamil Nadu,Priya Sharma,1773242841
-VOTER707,Gujarat,Sunita Reddy,1773242842
-VOTER708,Gujarat,Amit Singh,1773242843
-VOTER709,Telangana,Sunita Reddy,1773242844
-VOTER710,Telangana,Anjali Nair,1773242845
-VOTER711,Delhi,Rahul Verma,1773242846
-VOTER712,Rajasthan,Amit Singh,1773242847
-VOTER713,Karnataka,Rahul Verma,1773242848
-VOTER714,Uttar Pradesh,Priya Sharma,1773242849
-VOTER715,Andhra Pradesh,Anjali Nair,1773242850
-VOTER716,Maharashtra,Anjali Nair,1773242851
-VOTER717,Delhi,Vikram Patel,1773242852
-VOTER718,Maharashtra,Vikram Patel,1773242853
-VOTER719,Karnataka,Sunita Reddy,1773242854
-VOTER720,Madhya Pradesh,Amit Singh,1773242855
-VOTER721,Karnataka,Amit Singh,1773242856
-VOTER722,Karnataka,Sunita Reddy,1773242857
-VOTER723,Andhra Pradesh,Sunita Reddy,1773242858
-VOTER724,Rajasthan,Vikram Patel,1773242859
-VOTER725,Maharashtra,Anjali Nair,1773242860
-VOTER726,Andhra Pradesh,Vikram Patel,1773242861
-VOTER727,Gujarat,Anjali Nair,1773242862
-VOTER728,West Bengal,Priya Sharma,1773242863
-VOTER729,Delhi,Rajesh Kumar,1773242864
-VOTER730,Maharashtra,Rahul Verma,1773242865
-VOTER731,Kerala,Priya Sharma,1773242866
-VOTER732,Maharashtra,Vikram Patel,1773242867
-VOTER733,Andhra Pradesh,Vikram Patel,1773242868
-VOTER734,Rajasthan,Amit Singh,1773242869
-VOTER735,Uttar Pradesh,Rahul Verma,1773242870
-VOTER736,Karnataka,Amit Singh,1773242871
-VOTER737,Karnataka,Rahul Verma,1773242872
-VOTER738,Delhi,Rajesh Kumar,1773242873
-VOTER739,Telangana,Anjali Nair,1773242874
-VOTER740,Uttar Pradesh,Rajesh Kumar,1773242875
-VOTER741,Telangana,Vikram Patel,1773242876
-VOTER742,Madhya Pradesh,Rahul Verma,1773242877
-VOTER743,Delhi,Amit Singh,1773242878
-VOTER744,Delhi,Amit Singh,1773242879
-VOTER745,Telangana,Sunita Reddy,1773242880
-VOTER746,Rajasthan,Rahul Verma,1773242881
-VOTER747,Madhya Pradesh,Rahul Verma,1773242882
-VOTER748,Andhra Pradesh,Rajesh Kumar,1773242883
-VOTER749,Delhi,Priya Sharma,1773242884
-VOTER750,West Bengal,Anjali Nair,1773242885
-VOTER751,Uttar Pradesh,Amit Singh,1773242886
-VOTER752,West Bengal,Priya Sharma,1773242887
-VOTER753,Gujarat,Rajesh Kumar,1773242888
-VOTER754,Andhra Pradesh,Vikram Patel,1773242889
-VOTER755,Gujarat,Amit Singh,1773242890
-VOTER756,Gujarat,Rajesh Kumar,1773242891
-VOTER757,Rajasthan,Vikram Patel,1773242892
-VOTER758,Kerala,Sunita Reddy,1773242893
-VOTER759,Andhra Pradesh,Rajesh Kumar,1773242894
-VOTER760,Andhra Pradesh,Priya Sharma,1773242895
-VOTER761,Rajasthan,Vikram Patel,1773242896
-VOTER762,West Bengal,Amit Singh,1773242897
-VOTER763,West Bengal,Rajesh Kumar,1773242898
-VOTER764,West Bengal,Vikram Patel,1773242899
-VOTER765,Delhi,Sunita Reddy,1773242900
-VOTER766,Andhra Pradesh,Priya Sharma,1773242901
-VOTER767,Rajasthan,Sunita Reddy,1773242902
-VOTER768,Andhra Pradesh,Anjali Nair,1773242903
-VOTER769,West Bengal,Amit Singh,1773242904
-VOTER770,Telangana,Rajesh Kumar,1773242905
-VOTER771,Maharashtra,Anjali Nair,1773242906
-VOTER772,Madhya Pradesh,Priya Sharma,1773242907
-VOTER773,Tamil Nadu,Anjali Nair,1773242908
-VOTER774,Delhi,Priya Sharma,1773242909
-VOTER775,Karnataka,Vikram Patel,1773242910
-VOTER776,Delhi,Anjali Nair,1773242911
-VOTER777,Delhi,Rajesh Kumar,1773242912
-VOTER778,Delhi,Priya Sharma,1773242913
-VOTER779,Rajasthan,Anjali Nair,1773242914
-VOTER780,Telangana,Sunita Reddy,1773242915
-VOTER781,Andhra Pradesh,Sunita Reddy,1773242916
-VOTER782,Maharashtra,Priya Sharma,1773242917
-VOTER783,Andhra Pradesh,Amit Singh,1773242918
-VOTER784,West Bengal,Anjali Nair,1773242919
-VOTER785,Gujarat,Rahul Verma,1773242920
-VOTER786,Kerala,Vikram Patel,1773242921
-VOTER787,Madhya Pradesh,Anjali Nair,1773242922
-VOTER788,Andhra Pradesh,Sunita Reddy,1773242923
-VOTER789,Tamil Nadu,Rajesh Kumar,1773242924
-VOTER790,Gujarat,Anjali Nair,1773242925
-VOTER791,Andhra Pradesh,Vikram Patel,1773242926
-VOTER792,Kerala,Vikram Patel,1773242927
-VOTER793,Tamil Nadu,Priya Sharma,1773242928
-VOTER794,Andhra Pradesh,Anjali Nair,1773242929
-VOTER795,Andhra Pradesh,Anjali Nair,1773242930
-VOTER796,Tamil Nadu,Rahul Verma,1773242931
-VOTER797,West Bengal,Anjali Nair,1773242932
-VOTER798,Andhra Pradesh,Rahul Verma,1773242933
-VOTER799,Uttar Pradesh,Vikram Patel,1773242934
-VOTER800,Telangana,Priya Sharma,1773242935
-VOTER801,Telangana,Rajesh Kumar,1773242936
-VOTER802,Karnataka,Anjali Nair,1773242937
-VOTER803,Uttar Pradesh,Vikram Patel,1773242938
-VOTER804,Andhra Pradesh,Rahul Verma,1773242939
-VOTER805,Gujarat,Sunita Reddy,1773242940
-VOTER806,Madhya Pradesh,Rahul Verma,1773242941
-VOTER807,Gujarat,Vikram Patel,1773242942
-VOTER808,Tamil Nadu,Sunita Reddy,1773242943
-VOTER809,Telangana,Anjali Nair,1773242944
-VOTER810,Kerala,Priya Sharma,1773242945
-VOTER811,Delhi,Rahul Verma,1773242946
-VOTER812,Tamil Nadu,Vikram Patel,1773242947
-VOTER813,Madhya Pradesh,Rahul Verma,1773242948
-VOTER814,Gujarat,Vikram Patel,1773242949
-VOTER815,Delhi,Rajesh Kumar,1773242950
-VOTER816,Telangana,Amit Singh,1773242951
-VOTER817,Rajasthan,Sunita Reddy,1773242952
-VOTER818,Telangana,Anjali Nair,1773242953
-VOTER819,Telangana,Vikram Patel,1773242954
-VOTER820,Tamil Nadu,Anjali Nair,1773242955
-VOTER821,Maharashtra,Rahul Verma,1773242956
-VOTER822,Kerala,Vikram Patel,1773242957
-VOTER823,West Bengal,Priya Sharma,1773242958
-VOTER824,Tamil Nadu,Anjali Nair,1773242959
-VOTER825,Madhya Pradesh,Vikram Patel,1773242960
-VOTER826,Tamil Nadu,Vikram Patel,1773242961
-VOTER827,Uttar Pradesh,Priya Sharma,1773242962
-VOTER828,Uttar Pradesh,Rajesh Kumar,1773242963
-VOTER829,Karnataka,Rahul Verma,1773242964
-VOTER830,Tamil Nadu,Amit Singh,1773242965
-VOTER831,Madhya Pradesh,Vikram Patel,1773242966
-VOTER832,Telangana,Rahul Verma,1773242967
-VOTER833,Maharashtra,Rahul Verma,1773242968
-VOTER834,Tamil Nadu,Anjali Nair,1773242969
-VOTER835,Andhra Pradesh,Sunita Reddy,1773242970
-VOTER836,Karnataka,Amit Singh,1773242971
-VOTER837,Andhra Pradesh,Rahul Verma,1773242972
-VOTER838,Rajasthan,Rahul Verma,1773242973
-VOTER839,Kerala,Sunita Reddy,1773242974
-VOTER840,Madhya Pradesh,Priya Sharma,1773242975
-VOTER841,Gujarat,Vikram Patel,1773242976
-VOTER842,Kerala,Priya Sharma,1773242977
-VOTER843,Madhya Pradesh,Rajesh Kumar,1773242978
-VOTER844,Andhra Pradesh,Rajesh Kumar,1773242979
-VOTER845,Maharashtra,Amit Singh,1773242980
-VOTER846,Andhra Pradesh,Anjali Nair,1773242981
-VOTER847,Maharashtra,Rahul Verma,1773242982
-VOTER848,West Bengal,Amit Singh,1773242983
-VOTER849,Tamil Nadu,Priya Sharma,1773242984
-VOTER850,Andhra Pradesh,Amit Singh,1773242985
-VOTER851,Maharashtra,Vikram Patel,1773242986
-VOTER852,Karnataka,Sunita Reddy,1773242987
-VOTER853,Madhya Pradesh,Amit Singh,1773242988
-VOTER854,Andhra Pradesh,Amit Singh,1773242989
-VOTER855,Maharashtra,Vikram Patel,1773242990
-VOTER856,Kerala,Anjali Nair,1773242991
-VOTER857,Gujarat,Amit Singh,1773242992
-VOTER858,Madhya Pradesh,Sunita Reddy,1773242993
-VOTER859,Telangana,Rahul Verma,1773242994
-VOTER860,Telangana,Sunita Reddy,1773242995
-VOTER861,Maharashtra,Rajesh Kumar,1773242996
-VOTER862,Karnataka,Anjali Nair,1773242997
-VOTER863,West Bengal,Priya Sharma,1773242998
-VOTER864,Telangana,Sunita Reddy,1773242999
-VOTER865,Maharashtra,Vikram Patel,1773243000
-VOTER866,Maharashtra,Sunita Reddy,1773243001
-VOTER867,Tamil Nadu,Amit Singh,1773243002
-VOTER868,Gujarat,Vikram Patel,1773243003
-VOTER869,Kerala,Anjali Nair,1773243004
-VOTER870,Tamil Nadu,Anjali Nair,1773243005
-VOTER871,West Bengal,Rajesh Kumar,1773243006
-VOTER872,Delhi,Vikram Patel,1773243007
-VOTER873,Maharashtra,Anjali Nair,1773243008
-VOTER874,Delhi,Vikram Patel,1773243009
-VOTER875,Gujarat,Priya Sharma,1773243010
-VOTER876,Delhi,Amit Singh,1773243011
-VOTER877,Madhya Pradesh,Priya Sharma,1773243012
-VOTER878,Gujarat,Rahul Verma,1773243013
-VOTER879,Andhra Pradesh,Rahul Verma,1773243014
-VOTER880,Delhi,Priya Sharma,1773243015
-VOTER881,Maharashtra,Amit Singh,1773243016
-VOTER882,Delhi,Anjali Nair,1773243017
-VOTER883,Andhra Pradesh,Vikram Patel,1773243018
-VOTER884,Kerala,Amit Singh,1773243019
-VOTER885,Rajasthan,Vikram Patel,1773243020
-VOTER886,Tamil Nadu,Sunita Reddy,1773243021
-VOTER887,Rajasthan,Rajesh Kumar,1773243022
-VOTER888,Kerala,Amit Singh,1773243023
-VOTER889,Kerala,Rahul Verma,1773243024
-VOTER890,Madhya Pradesh,Vikram Patel,1773243025
-VOTER891,Uttar Pradesh,Anjali Nair,1773243026
-VOTER892,Gujarat,Rajesh Kumar,1773243027
-VOTER893,Rajasthan,Priya Sharma,1773243028
-VOTER894,West Bengal,Priya Sharma,1773243029
-VOTER895,Rajasthan,Amit Singh,1773243030
-VOTER896,Gujarat,Sunita Reddy,1773243031
-VOTER897,Kerala,Sunita Reddy,1773243032
-VOTER898,Maharashtra,Priya Sharma,1773243033
-VOTER899,Gujarat,Vikram Patel,1773243034
-VOTER900,Andhra Pradesh,Amit Singh,1773243035
-VOTER901,Maharashtra,Priya Sharma,1773243036
-VOTER902,Karnataka,Sunita Reddy,1773243037
-VOTER903,Uttar Pradesh,Rajesh Kumar,1773243038
-VOTER904,Madhya Pradesh,Priya Sharma,1773243039
-VOTER905,Maharashtra,Rajesh Kumar,1773243040
-VOTER906,West Bengal,Sunita Reddy,1773243041
-VOTER907,Uttar Pradesh,Anjali Nair,1773243042
-VOTER908,Tamil Nadu,Rajesh Kumar,1773243043
-VOTER909,Telangana,Priya Sharma,1773243044
-VOTER910,Madhya Pradesh,Amit Singh,1773243045
-VOTER911,Andhra Pradesh,Priya Sharma,1773243046
-VOTER912,Karnataka,Sunita Reddy,1773243047
-VOTER913,Kerala,Anjali Nair,1773243048
-VOTER914,Kerala,Priya Sharma,1773243049
-VOTER915,Telangana,Amit Singh,1773243050
-VOTER916,Delhi,Priya Sharma,1773243051
-VOTER917,West Bengal,Priya Sharma,1773243052
-VOTER918,Rajasthan,Amit Singh,1773243053
-VOTER919,Uttar Pradesh,Amit Singh,1773243054
-VOTER920,Andhra Pradesh,Rahul Verma,1773243055
-VOTER921,Tamil Nadu,Amit Singh,1773243056
-VOTER922,Kerala,Sunita Reddy,1773243057
-VOTER923,West Bengal,Rahul Verma,1773243058
-VOTER924,West Bengal,Rajesh Kumar,1773243059
-VOTER925,Andhra Pradesh,Rahul Verma,1773243060
-VOTER926,Gujarat,Rahul Verma,1773243061
-VOTER927,Rajasthan,Vikram Patel,1773243062
-VOTER928,Tamil Nadu,Amit Singh,1773243063
-VOTER929,Karnataka,Vikram Patel,1773243064
-VOTER930,Delhi,Amit Singh,1773243065
-VOTER931,Andhra Pradesh,Priya Sharma,1773243066
-VOTER932,Telangana,Sunita Reddy,1773243067
-VOTER933,Andhra Pradesh,Anjali Nair,1773243068
-VOTER934,Maharashtra,Sunita Reddy,1773243069
-VOTER935,Karnataka,Amit Singh,1773243070
-VOTER936,Madhya Pradesh,Anjali Nair,1773243071
-VOTER937,Kerala,Rajesh Kumar,1773243072
-VOTER938,Delhi,Rahul Verma,1773243073
-VOTER939,Delhi,Rahul Verma,1773243074
-VOTER940,Delhi,Anjali Nair,1773243075
-VOTER941,Karnataka,Anjali Nair,1773243076
-VOTER942,Kerala,Rahul Verma,1773243077
-VOTER943,Kerala,Priya Sharma,1773243078
-VOTER944,Maharashtra,Amit Singh,1773243079
-VOTER945,West Bengal,Rajesh Kumar,1773243080
-VOTER946,West Bengal,Amit Singh,1773243081
-VOTER947,Telangana,Anjali Nair,1773243082
-VOTER948,Kerala,Vikram Patel,1773243083
-VOTER949,Maharashtra,Amit Singh,1773243084
-VOTER950,Telangana,Rahul Verma,1773243085
-VOTER951,Telangana,Rajesh Kumar,1773243086
-VOTER952,Rajasthan,Anjali Nair,1773243087
-VOTER953,West Bengal,Rajesh Kumar,1773243088
-VOTER954,Tamil Nadu,Sunita Reddy,1773243089
-VOTER955,Maharashtra,Sunita Reddy,1773243090
-VOTER956,Gujarat,Vikram Patel,1773243091
-VOTER957,West Bengal,Vikram Patel,1773243092
-VOTER958,Maharashtra,Sunita Reddy,1773243093
-VOTER959,Karnataka,Anjali Nair,1773243094
-VOTER960,Karnataka,Anjali Nair,1773243095
-VOTER961,Maharashtra,Amit Singh,1773243096
-VOTER962,Uttar Pradesh,Rajesh Kumar,1773243097
-VOTER963,Andhra Pradesh,Sunita Reddy,1773243098
-VOTER964,Gujarat,Amit Singh,1773243099
-VOTER965,Delhi,Rajesh Kumar,1773243100
-VOTER966,Maharashtra,Rahul Verma,1773243101
-VOTER967,West Bengal,Priya Sharma,1773243102
-VOTER968,Karnataka,Vikram Patel,1773243103
-VOTER969,Karnataka,Vikram Patel,1773243104
-VOTER970,Tamil Nadu,Rajesh Kumar,1773243105
-VOTER971,Karnataka,Anjali Nair,1773243106
-VOTER972,Kerala,Anjali Nair,1773243107
-VOTER973,Gujarat,Rahul Verma,1773243108
-VOTER974,Tamil Nadu,Rajesh Kumar,1773243109
-VOTER975,Rajasthan,Rajesh Kumar,1773243110
-VOTER976,Maharashtra,Vikram Patel,1773243111
-VOTER977,West Bengal,Rahul Verma,1773243112
-VOTER978,Kerala,Rahul Verma,1773243113
-VOTER979,Kerala,Vikram Patel,1773243114
-VOTER980,Andhra Pradesh,Priya Sharma,1773243115
-VOTER981,Madhya Pradesh,Vikram Patel,1773243116
-VOTER982,Karnataka,Rajesh Kumar,1773243117
-VOTER983,Gujarat,Vikram Patel,1773243118
-VOTER984,Maharashtra,Rajesh Kumar,1773243119
-VOTER985,Tamil Nadu,Sunita Reddy,1773243120
-VOTER986,West Bengal,Rajesh Kumar,1773243121
-VOTER987,Rajasthan,Sunita Reddy,1773243122
-VOTER988,Delhi,Amit Singh,1773243123
-VOTER989,Tamil Nadu,Priya Sharma,1773243124
-VOTER990,Andhra Pradesh,Sunita Reddy,1773243125
-VOTER991,Andhra Pradesh,Amit Singh,1773243126
-VOTER992,West Bengal,Amit Singh,1773243127
-VOTER993,Kerala,Amit Singh,1773243128
-VOTER994,Maharashtra,Anjali Nair,1773243129
-VOTER995,Karnataka,Priya Sharma,1773243130
-VOTER996,Uttar Pradesh,Vikram Patel,1773243131
-VOTER997,Karnataka,Amit Singh,1773243132
-VOTER998,Madhya Pradesh,Rajesh Kumar,1773243133
-VOTER999,Uttar Pradesh,Anjali Nair,1773243134
-VOTER1000,Karnataka,Sunita Reddy,1773243135
-m,Andhra Pradesh,Amit Singh,1773242924
-TN234,Maharashtra,Vikram Patel,1773243626
-AP432,Andhra Pradesh,Amit Singh,1773244468
-TN432,Andhra Pradesh,Amit Singh,1773245478
-TN9876,Andhra Pradesh,Amit Singh,1773245712
-TN432,Andhra Pradesh,Amit Singh,1773245996
+voter_id,region,party,timestamp
+VOTER1,TamilNadu,KMNK,1774186742
+VOTER2,TamilNadu,ABBMK,1774186743
+VOTER3,TamilNadu,BMK,1774186744
+VOTER4,TamilNadu,BVK,1774186745
+VOTER5,TamilNadu,AMVK,1774186746
+VOTER6,TamilNadu,KMNK,1774186747
+VOTER7,TamilNadu,KMNK,1774186748
+VOTER8,TamilNadu,BJMK,1774186749
+VOTER9,TamilNadu,BJMK,1774186750
+VOTER10,TamilNadu,ABBMK,1774186751
+VOTER11,TamilNadu,ABBMK,1774186752
+VOTER12,TamilNadu,BMK,1774186753
+VOTER13,TamilNadu,BJMK,1774186754
+VOTER14,TamilNadu,BMK,1774186755
+VOTER15,TamilNadu,AMVK,1774186756
+VOTER16,TamilNadu,AMVK,1774186757
+VOTER17,TamilNadu,TMK,1774186758
+VOTER18,TamilNadu,KMNK,1774186759
+VOTER19,TamilNadu,AMVK,1774186760
+VOTER20,TamilNadu,ABBMK,1774186761
+VOTER21,TamilNadu,BJMK,1774186762
+VOTER22,TamilNadu,KMNK,1774186763
+VOTER23,TamilNadu,BVK,1774186764
+VOTER24,TamilNadu,BMK,1774186765
+VOTER25,TamilNadu,AMVK,1774186766
+VOTER26,TamilNadu,KMNK,1774186767
+VOTER27,TamilNadu,BJMK,1774186768
+VOTER28,TamilNadu,BJMK,1774186769
+VOTER29,TamilNadu,AMVK,1774186770
+VOTER30,TamilNadu,AMVK,1774186771
+VOTER31,TamilNadu,ABBMK,1774186772
+VOTER32,TamilNadu,TMK,1774186773
+VOTER33,TamilNadu,AMVK,1774186774
+VOTER34,TamilNadu,KMNK,1774186775
+VOTER35,TamilNadu,BJMK,1774186776
+VOTER36,TamilNadu,KMNK,1774186777
+VOTER37,TamilNadu,KMNK,1774186778
+VOTER38,TamilNadu,AMVK,1774186779
+VOTER39,TamilNadu,ABBMK,1774186780
+VOTER40,TamilNadu,BMK,1774186781
+VOTER41,TamilNadu,ABBMK,1774186782
+VOTER42,TamilNadu,KMNK,1774186783
+VOTER43,TamilNadu,TMK,1774186784
+VOTER44,TamilNadu,KMNK,1774186785
+VOTER45,TamilNadu,BVK,1774186786
+VOTER46,TamilNadu,BMK,1774186787
+VOTER47,TamilNadu,KMNK,1774186788
+VOTER48,TamilNadu,KMNK,1774186789
+VOTER49,TamilNadu,KMNK,1774186790
+VOTER50,TamilNadu,KMNK,1774186791
+VOTER51,TamilNadu,KMNK,1774186792
+VOTER52,TamilNadu,BVK,1774186793
+VOTER53,TamilNadu,KMNK,1774186794
+VOTER54,TamilNadu,BJMK,1774186795
+VOTER55,TamilNadu,BJMK,1774186796
+VOTER56,TamilNadu,BJMK,1774186797
+VOTER57,TamilNadu,BMK,1774186798
+VOTER58,TamilNadu,BMK,1774186799
+VOTER59,TamilNadu,BVK,1774186800
+VOTER60,TamilNadu,TMK,1774186801
+VOTER61,TamilNadu,AMVK,1774186802
+VOTER62,TamilNadu,KMNK,1774186803
+VOTER63,TamilNadu,ABBMK,1774186804
+VOTER64,TamilNadu,BVK,1774186805
+VOTER65,TamilNadu,ABBMK,1774186806
+VOTER66,TamilNadu,KMNK,1774186807
+VOTER67,TamilNadu,BMK,1774186808
+VOTER68,TamilNadu,BVK,1774186809
+VOTER69,TamilNadu,BMK,1774186810
+VOTER70,TamilNadu,KMNK,1774186811
+VOTER71,TamilNadu,ABBMK,1774186812
+VOTER72,TamilNadu,ABBMK,1774186813
+VOTER73,TamilNadu,AMVK,1774186814
+VOTER74,TamilNadu,BMK,1774186815
+VOTER75,TamilNadu,TMK,1774186816
+VOTER76,TamilNadu,BMK,1774186817
+VOTER77,TamilNadu,AMVK,1774186818
+VOTER78,TamilNadu,KMNK,1774186819
+VOTER79,TamilNadu,BJMK,1774186820
+VOTER80,TamilNadu,BJMK,1774186821
+VOTER81,TamilNadu,AMVK,1774186822
+VOTER82,TamilNadu,ABBMK,1774186823
+VOTER83,TamilNadu,BMK,1774186824
+VOTER84,TamilNadu,ABBMK,1774186825
+VOTER85,TamilNadu,KMNK,1774186826
+VOTER86,TamilNadu,BMK,1774186827
+VOTER87,TamilNadu,BVK,1774186828
+VOTER88,TamilNadu,KMNK,1774186829
+VOTER89,TamilNadu,KMNK,1774186830
+VOTER90,TamilNadu,BJMK,1774186831
+VOTER91,TamilNadu,BMK,1774186832
+VOTER92,TamilNadu,BMK,1774186833
+VOTER93,TamilNadu,ABBMK,1774186834
+VOTER94,TamilNadu,AMVK,1774186835
+VOTER95,TamilNadu,AMVK,1774186836
+VOTER96,TamilNadu,KMNK,1774186837
+VOTER97,TamilNadu,KMNK,1774186838
+VOTER98,TamilNadu,BMK,1774186839
+VOTER99,TamilNadu,BMK,1774186840
+VOTER100,TamilNadu,BJMK,1774186841
+VOTER101,TamilNadu,KMNK,1774186842
+VOTER102,TamilNadu,ABBMK,1774186843
+VOTER103,TamilNadu,BVK,1774186844
+VOTER104,TamilNadu,BJMK,1774186845
+VOTER105,TamilNadu,BJMK,1774186846
+VOTER106,TamilNadu,KMNK,1774186847
+VOTER107,TamilNadu,KMNK,1774186848
+VOTER108,TamilNadu,BVK,1774186849
+VOTER109,TamilNadu,ABBMK,1774186850
+VOTER110,TamilNadu,BMK,1774186851
+VOTER111,TamilNadu,TMK,1774186852
+VOTER112,TamilNadu,TMK,1774186853
+VOTER113,TamilNadu,BVK,1774186854
+VOTER114,TamilNadu,BVK,1774186855
+VOTER115,TamilNadu,BMK,1774186856
+VOTER116,TamilNadu,KMNK,1774186857
+VOTER117,TamilNadu,ABBMK,1774186858
+VOTER118,TamilNadu,ABBMK,1774186859
+VOTER119,TamilNadu,BJMK,1774186860
+VOTER120,TamilNadu,BMK,1774186861
+VOTER121,TamilNadu,BJMK,1774186862
+VOTER122,TamilNadu,BJMK,1774186863
+VOTER123,TamilNadu,AMVK,1774186864
+VOTER124,TamilNadu,TMK,1774186865
+VOTER125,TamilNadu,ABBMK,1774186866
+VOTER126,TamilNadu,KMNK,1774186867
+VOTER127,TamilNadu,AMVK,1774186868
+VOTER128,TamilNadu,BVK,1774186869
+VOTER129,TamilNadu,BVK,1774186870
+VOTER130,TamilNadu,AMVK,1774186871
+VOTER131,TamilNadu,AMVK,1774186872
+VOTER132,TamilNadu,BVK,1774186873
+VOTER133,TamilNadu,AMVK,1774186874
+VOTER134,TamilNadu,BJMK,1774186875
+VOTER135,TamilNadu,BJMK,1774186876
+VOTER136,TamilNadu,BMK,1774186877
+VOTER137,TamilNadu,TMK,1774186878
+VOTER138,TamilNadu,TMK,1774186879
+VOTER139,TamilNadu,BMK,1774186880
+VOTER140,TamilNadu,TMK,1774186881
+VOTER141,TamilNadu,BMK,1774186882
+VOTER142,TamilNadu,TMK,1774186883
+VOTER143,TamilNadu,TMK,1774186884
+VOTER144,TamilNadu,KMNK,1774186885
+VOTER145,TamilNadu,ABBMK,1774186886
+VOTER146,TamilNadu,KMNK,1774186887
+VOTER147,TamilNadu,BMK,1774186888
+VOTER148,TamilNadu,BMK,1774186889
+VOTER149,TamilNadu,AMVK,1774186890
+VOTER150,TamilNadu,KMNK,1774186891
+VOTER151,TamilNadu,TMK,1774186892
+VOTER152,TamilNadu,TMK,1774186893
+VOTER153,TamilNadu,TMK,1774186894
+VOTER154,TamilNadu,KMNK,1774186895
+VOTER155,TamilNadu,BMK,1774186896
+VOTER156,TamilNadu,BMK,1774186897
+VOTER157,TamilNadu,TMK,1774186898
+VOTER158,TamilNadu,KMNK,1774186899
+VOTER159,TamilNadu,ABBMK,1774186900
+VOTER160,TamilNadu,ABBMK,1774186901
+VOTER161,TamilNadu,ABBMK,1774186902
+VOTER162,TamilNadu,TMK,1774186903
+VOTER163,TamilNadu,BJMK,1774186904
+VOTER164,TamilNadu,ABBMK,1774186905
+VOTER165,TamilNadu,BMK,1774186906
+VOTER166,TamilNadu,BJMK,1774186907
+VOTER167,TamilNadu,ABBMK,1774186908
+VOTER168,TamilNadu,BMK,1774186909
+VOTER169,TamilNadu,BVK,1774186910
+VOTER170,TamilNadu,BJMK,1774186911
+VOTER171,TamilNadu,AMVK,1774186912
+VOTER172,TamilNadu,AMVK,1774186913
+VOTER173,TamilNadu,ABBMK,1774186914
+VOTER174,TamilNadu,KMNK,1774186915
+VOTER175,TamilNadu,BMK,1774186916
+VOTER176,TamilNadu,BJMK,1774186917
+VOTER177,TamilNadu,BVK,1774186918
+VOTER178,TamilNadu,TMK,1774186919
+VOTER179,TamilNadu,BJMK,1774186920
+VOTER180,TamilNadu,AMVK,1774186921
+VOTER181,TamilNadu,BVK,1774186922
+VOTER182,TamilNadu,BVK,1774186923
+VOTER183,TamilNadu,BMK,1774186924
+VOTER184,TamilNadu,AMVK,1774186925
+VOTER185,TamilNadu,KMNK,1774186926
+VOTER186,TamilNadu,ABBMK,1774186927
+VOTER187,TamilNadu,BVK,1774186928
+VOTER188,TamilNadu,TMK,1774186929
+VOTER189,TamilNadu,BVK,1774186930
+VOTER190,TamilNadu,AMVK,1774186931
+VOTER191,TamilNadu,BVK,1774186932
+VOTER192,TamilNadu,TMK,1774186933
+VOTER193,TamilNadu,BVK,1774186934
+VOTER194,TamilNadu,BMK,1774186935
+VOTER195,TamilNadu,BJMK,1774186936
+VOTER196,TamilNadu,BVK,1774186937
+VOTER197,TamilNadu,ABBMK,1774186938
+VOTER198,TamilNadu,ABBMK,1774186939
+VOTER199,TamilNadu,BVK,1774186940
+VOTER200,TamilNadu,TMK,1774186941
+VOTER201,TamilNadu,BMK,1774186942
+VOTER202,TamilNadu,BVK,1774186943
+VOTER203,TamilNadu,ABBMK,1774186944
+VOTER204,TamilNadu,BVK,1774186945
+VOTER205,TamilNadu,KMNK,1774186946
+VOTER206,TamilNadu,BMK,1774186947
+VOTER207,TamilNadu,AMVK,1774186948
+VOTER208,TamilNadu,BJMK,1774186949
+VOTER209,TamilNadu,ABBMK,1774186950
+VOTER210,TamilNadu,TMK,1774186951
+VOTER211,TamilNadu,TMK,1774186952
+VOTER212,TamilNadu,TMK,1774186953
+VOTER213,TamilNadu,BJMK,1774186954
+VOTER214,TamilNadu,KMNK,1774186955
+VOTER215,TamilNadu,KMNK,1774186956
+VOTER216,TamilNadu,BVK,1774186957
+VOTER217,TamilNadu,ABBMK,1774186958
+VOTER218,TamilNadu,ABBMK,1774186959
+VOTER219,TamilNadu,BJMK,1774186960
+VOTER220,TamilNadu,BMK,1774186961
+VOTER221,TamilNadu,TMK,1774186962
+VOTER222,TamilNadu,BVK,1774186963
+VOTER223,TamilNadu,BJMK,1774186964
+VOTER224,TamilNadu,BMK,1774186965
+VOTER225,TamilNadu,BJMK,1774186966
+VOTER226,TamilNadu,TMK,1774186967
+VOTER227,TamilNadu,AMVK,1774186968
+VOTER228,TamilNadu,BJMK,1774186969
+VOTER229,TamilNadu,BJMK,1774186970
+VOTER230,TamilNadu,KMNK,1774186971
+VOTER231,TamilNadu,TMK,1774186972
+VOTER232,TamilNadu,BVK,1774186973
+VOTER233,TamilNadu,BVK,1774186974
+VOTER234,TamilNadu,KMNK,1774186975
+VOTER235,TamilNadu,KMNK,1774186976
+VOTER236,TamilNadu,BVK,1774186977
+VOTER237,TamilNadu,ABBMK,1774186978
+VOTER238,TamilNadu,ABBMK,1774186979
+VOTER239,TamilNadu,BJMK,1774186980
+VOTER240,TamilNadu,KMNK,1774186981
+VOTER241,TamilNadu,AMVK,1774186982
+VOTER242,TamilNadu,ABBMK,1774186983
+VOTER243,TamilNadu,KMNK,1774186984
+VOTER244,TamilNadu,AMVK,1774186985
+VOTER245,TamilNadu,TMK,1774186986
+VOTER246,TamilNadu,KMNK,1774186987
+VOTER247,TamilNadu,TMK,1774186988
+VOTER248,TamilNadu,TMK,1774186989
+VOTER249,TamilNadu,ABBMK,1774186990
+VOTER250,TamilNadu,TMK,1774186991
+VOTER251,TamilNadu,BMK,1774186992
+VOTER252,TamilNadu,AMVK,1774186993
+VOTER253,TamilNadu,AMVK,1774186994
+VOTER254,TamilNadu,KMNK,1774186995
+VOTER255,TamilNadu,BMK,1774186996
+VOTER256,TamilNadu,TMK,1774186997
+VOTER257,TamilNadu,AMVK,1774186998
+VOTER258,TamilNadu,BMK,1774186999
+VOTER259,TamilNadu,AMVK,1774187000
+VOTER260,TamilNadu,BJMK,1774187001
+VOTER261,TamilNadu,TMK,1774187002
+VOTER262,TamilNadu,TMK,1774187003
+VOTER263,TamilNadu,BMK,1774187004
+VOTER264,TamilNadu,BMK,1774187005
+VOTER265,TamilNadu,ABBMK,1774187006
+VOTER266,TamilNadu,BVK,1774187007
+VOTER267,TamilNadu,BJMK,1774187008
+VOTER268,TamilNadu,KMNK,1774187009
+VOTER269,TamilNadu,KMNK,1774187010
+VOTER270,TamilNadu,KMNK,1774187011
+VOTER271,TamilNadu,KMNK,1774187012
+VOTER272,TamilNadu,BVK,1774187013
+VOTER273,TamilNadu,BVK,1774187014
+VOTER274,TamilNadu,AMVK,1774187015
+VOTER275,TamilNadu,BVK,1774187016
+VOTER276,TamilNadu,ABBMK,1774187017
+VOTER277,TamilNadu,TMK,1774187018
+VOTER278,TamilNadu,BVK,1774187019
+VOTER279,TamilNadu,BMK,1774187020
+VOTER280,TamilNadu,BVK,1774187021
+VOTER281,TamilNadu,BMK,1774187022
+VOTER282,TamilNadu,BJMK,1774187023
+VOTER283,TamilNadu,TMK,1774187024
+VOTER284,TamilNadu,TMK,1774187025
+VOTER285,TamilNadu,BVK,1774187026
+VOTER286,TamilNadu,ABBMK,1774187027
+VOTER287,TamilNadu,AMVK,1774187028
+VOTER288,TamilNadu,TMK,1774187029
+VOTER289,TamilNadu,BVK,1774187030
+VOTER290,TamilNadu,AMVK,1774187031
+VOTER291,TamilNadu,ABBMK,1774187032
+VOTER292,TamilNadu,BMK,1774187033
+VOTER293,TamilNadu,ABBMK,1774187034
+VOTER294,TamilNadu,BVK,1774187035
+VOTER295,TamilNadu,TMK,1774187036
+VOTER296,TamilNadu,BJMK,1774187037
+VOTER297,TamilNadu,TMK,1774187038
+VOTER298,TamilNadu,BVK,1774187039
+VOTER299,TamilNadu,BVK,1774187040
+VOTER300,TamilNadu,TMK,1774187041
+VOTER301,TamilNadu,BJMK,1774187042
+VOTER302,TamilNadu,TMK,1774187043
+VOTER303,TamilNadu,TMK,1774187044
+VOTER304,TamilNadu,TMK,1774187045
+VOTER305,TamilNadu,BVK,1774187046
+VOTER306,TamilNadu,TMK,1774187047
+VOTER307,TamilNadu,BVK,1774187048
+VOTER308,TamilNadu,BJMK,1774187049
+VOTER309,TamilNadu,ABBMK,1774187050
+VOTER310,TamilNadu,ABBMK,1774187051
+VOTER311,TamilNadu,TMK,1774187052
+VOTER312,TamilNadu,TMK,1774187053
+VOTER313,TamilNadu,TMK,1774187054
+VOTER314,TamilNadu,ABBMK,1774187055
+VOTER315,TamilNadu,BVK,1774187056
+VOTER316,TamilNadu,ABBMK,1774187057
+VOTER317,TamilNadu,ABBMK,1774187058
+VOTER318,TamilNadu,BJMK,1774187059
+VOTER319,TamilNadu,AMVK,1774187060
+VOTER320,TamilNadu,AMVK,1774187061
+VOTER321,TamilNadu,BJMK,1774187062
+VOTER322,TamilNadu,AMVK,1774187063
+VOTER323,TamilNadu,BVK,1774187064
+VOTER324,TamilNadu,AMVK,1774187065
+VOTER325,TamilNadu,BMK,1774187066
+VOTER326,TamilNadu,AMVK,1774187067
+VOTER327,TamilNadu,ABBMK,1774187068
+VOTER328,TamilNadu,KMNK,1774187069
+VOTER329,TamilNadu,AMVK,1774187070
+VOTER330,TamilNadu,AMVK,1774187071
+VOTER331,TamilNadu,KMNK,1774187072
+VOTER332,TamilNadu,BJMK,1774187073
+VOTER333,TamilNadu,BMK,1774187074
+VOTER334,TamilNadu,KMNK,1774187075
+VOTER335,TamilNadu,BMK,1774187076
+VOTER336,TamilNadu,KMNK,1774187077
+VOTER337,TamilNadu,BMK,1774187078
+VOTER338,TamilNadu,BJMK,1774187079
+VOTER339,TamilNadu,BVK,1774187080
+VOTER340,TamilNadu,TMK,1774187081
+VOTER341,TamilNadu,BVK,1774187082
+VOTER342,TamilNadu,AMVK,1774187083
+VOTER343,TamilNadu,AMVK,1774187084
+VOTER344,TamilNadu,ABBMK,1774187085
+VOTER345,TamilNadu,BMK,1774187086
+VOTER346,TamilNadu,BJMK,1774187087
+VOTER347,TamilNadu,TMK,1774187088
+VOTER348,TamilNadu,ABBMK,1774187089
+VOTER349,TamilNadu,ABBMK,1774187090
+VOTER350,TamilNadu,BMK,1774187091
+VOTER351,TamilNadu,AMVK,1774187092
+VOTER352,TamilNadu,TMK,1774187093
+VOTER353,TamilNadu,BVK,1774187094
+VOTER354,TamilNadu,ABBMK,1774187095
+VOTER355,TamilNadu,ABBMK,1774187096
+VOTER356,TamilNadu,AMVK,1774187097
+VOTER357,TamilNadu,BVK,1774187098
+VOTER358,TamilNadu,BVK,1774187099
+VOTER359,TamilNadu,KMNK,1774187100
+VOTER360,TamilNadu,KMNK,1774187101
+VOTER361,TamilNadu,BMK,1774187102
+VOTER362,TamilNadu,BVK,1774187103
+VOTER363,TamilNadu,BVK,1774187104
+VOTER364,TamilNadu,TMK,1774187105
+VOTER365,TamilNadu,BVK,1774187106
+VOTER366,TamilNadu,AMVK,1774187107
+VOTER367,TamilNadu,AMVK,1774187108
+VOTER368,TamilNadu,TMK,1774187109
+VOTER369,TamilNadu,KMNK,1774187110
+VOTER370,TamilNadu,BJMK,1774187111
+VOTER371,TamilNadu,TMK,1774187112
+VOTER372,TamilNadu,BVK,1774187113
+VOTER373,TamilNadu,BJMK,1774187114
+VOTER374,TamilNadu,BJMK,1774187115
+VOTER375,TamilNadu,KMNK,1774187116
+VOTER376,TamilNadu,KMNK,1774187117
+VOTER377,TamilNadu,BMK,1774187118
+VOTER378,TamilNadu,AMVK,1774187119
+VOTER379,TamilNadu,AMVK,1774187120
+VOTER380,TamilNadu,BMK,1774187121
+VOTER381,TamilNadu,BMK,1774187122
+VOTER382,TamilNadu,BMK,1774187123
+VOTER383,TamilNadu,BJMK,1774187124
+VOTER384,TamilNadu,BJMK,1774187125
+VOTER385,TamilNadu,AMVK,1774187126
+VOTER386,TamilNadu,BVK,1774187127
+VOTER387,TamilNadu,KMNK,1774187128
+VOTER388,TamilNadu,BVK,1774187129
+VOTER389,TamilNadu,BJMK,1774187130
+VOTER390,TamilNadu,BVK,1774187131
+VOTER391,TamilNadu,BMK,1774187132
+VOTER392,TamilNadu,TMK,1774187133
+VOTER393,TamilNadu,ABBMK,1774187134
+VOTER394,TamilNadu,BJMK,1774187135
+VOTER395,TamilNadu,AMVK,1774187136
+VOTER396,TamilNadu,ABBMK,1774187137
+VOTER397,TamilNadu,BMK,1774187138
+VOTER398,TamilNadu,BMK,1774187139
+VOTER399,TamilNadu,KMNK,1774187140
+VOTER400,TamilNadu,ABBMK,1774187141
+VOTER401,TamilNadu,AMVK,1774187142
+VOTER402,TamilNadu,BVK,1774187143
+VOTER403,TamilNadu,BJMK,1774187144
+VOTER404,TamilNadu,AMVK,1774187145
+VOTER405,TamilNadu,BJMK,1774187146
+VOTER406,TamilNadu,ABBMK,1774187147
+VOTER407,TamilNadu,TMK,1774187148
+VOTER408,TamilNadu,ABBMK,1774187149
+VOTER409,TamilNadu,BJMK,1774187150
+VOTER410,TamilNadu,KMNK,1774187151
+VOTER411,TamilNadu,AMVK,1774187152
+VOTER412,TamilNadu,BJMK,1774187153
+VOTER413,TamilNadu,TMK,1774187154
+VOTER414,TamilNadu,ABBMK,1774187155
+VOTER415,TamilNadu,TMK,1774187156
+VOTER416,TamilNadu,ABBMK,1774187157
+VOTER417,TamilNadu,BMK,1774187158
+VOTER418,TamilNadu,KMNK,1774187159
+VOTER419,TamilNadu,BVK,1774187160
+VOTER420,TamilNadu,BVK,1774187161
+VOTER421,TamilNadu,ABBMK,1774187162
+VOTER422,TamilNadu,AMVK,1774187163
+VOTER423,TamilNadu,TMK,1774187164
+VOTER424,TamilNadu,ABBMK,1774187165
+VOTER425,TamilNadu,ABBMK,1774187166
+VOTER426,TamilNadu,BJMK,1774187167
+VOTER427,TamilNadu,BMK,1774187168
+VOTER428,TamilNadu,BJMK,1774187169
+VOTER429,TamilNadu,BVK,1774187170
+VOTER430,TamilNadu,KMNK,1774187171
+VOTER431,TamilNadu,BMK,1774187172
+VOTER432,TamilNadu,TMK,1774187173
+VOTER433,TamilNadu,BVK,1774187174
+VOTER434,TamilNadu,ABBMK,1774187175
+VOTER435,TamilNadu,AMVK,1774187176
+VOTER436,TamilNadu,BMK,1774187177
+VOTER437,TamilNadu,ABBMK,1774187178
+VOTER438,TamilNadu,BJMK,1774187179
+VOTER439,TamilNadu,KMNK,1774187180
+VOTER440,TamilNadu,BVK,1774187181
+VOTER441,TamilNadu,BMK,1774187182
+VOTER442,TamilNadu,KMNK,1774187183
+VOTER443,TamilNadu,BVK,1774187184
+VOTER444,TamilNadu,BVK,1774187185
+VOTER445,TamilNadu,ABBMK,1774187186
+VOTER446,TamilNadu,BJMK,1774187187
+VOTER447,TamilNadu,AMVK,1774187188
+VOTER448,TamilNadu,KMNK,1774187189
+VOTER449,TamilNadu,BJMK,1774187190
+VOTER450,TamilNadu,TMK,1774187191
+VOTER451,TamilNadu,BMK,1774187192
+VOTER452,TamilNadu,KMNK,1774187193
+VOTER453,TamilNadu,BVK,1774187194
+VOTER454,TamilNadu,BVK,1774187195
+VOTER455,TamilNadu,TMK,1774187196
+VOTER456,TamilNadu,AMVK,1774187197
+VOTER457,TamilNadu,ABBMK,1774187198
+VOTER458,TamilNadu,TMK,1774187199
+VOTER459,TamilNadu,ABBMK,1774187200
+VOTER460,TamilNadu,BMK,1774187201
+VOTER461,TamilNadu,BMK,1774187202
+VOTER462,TamilNadu,TMK,1774187203
+VOTER463,TamilNadu,KMNK,1774187204
+VOTER464,TamilNadu,BJMK,1774187205
+VOTER465,TamilNadu,BJMK,1774187206
+VOTER466,TamilNadu,TMK,1774187207
+VOTER467,TamilNadu,ABBMK,1774187208
+VOTER468,TamilNadu,AMVK,1774187209
+VOTER469,TamilNadu,BJMK,1774187210
+VOTER470,TamilNadu,AMVK,1774187211
+VOTER471,TamilNadu,KMNK,1774187212
+VOTER472,TamilNadu,AMVK,1774187213
+VOTER473,TamilNadu,BMK,1774187214
+VOTER474,TamilNadu,BVK,1774187215
+VOTER475,TamilNadu,BVK,1774187216
+VOTER476,TamilNadu,ABBMK,1774187217
+VOTER477,TamilNadu,AMVK,1774187218
+VOTER478,TamilNadu,AMVK,1774187219
+VOTER479,TamilNadu,AMVK,1774187220
+VOTER480,TamilNadu,AMVK,1774187221
+VOTER481,TamilNadu,BMK,1774187222
+VOTER482,TamilNadu,KMNK,1774187223
+VOTER483,TamilNadu,BJMK,1774187224
+VOTER484,TamilNadu,KMNK,1774187225
+VOTER485,TamilNadu,ABBMK,1774187226
+VOTER486,TamilNadu,KMNK,1774187227
+VOTER487,TamilNadu,KMNK,1774187228
+VOTER488,TamilNadu,BJMK,1774187229
+VOTER489,TamilNadu,BMK,1774187230
+VOTER490,TamilNadu,ABBMK,1774187231
+VOTER491,TamilNadu,ABBMK,1774187232
+VOTER492,TamilNadu,AMVK,1774187233
+VOTER493,TamilNadu,ABBMK,1774187234
+VOTER494,TamilNadu,ABBMK,1774187235
+VOTER495,TamilNadu,KMNK,1774187236
+VOTER496,TamilNadu,ABBMK,1774187237
+VOTER497,TamilNadu,BVK,1774187238
+VOTER498,TamilNadu,ABBMK,1774187239
+VOTER499,TamilNadu,KMNK,1774187240
+VOTER500,TamilNadu,BMK,1774187241
+VOTER501,TamilNadu,BMK,1774187242
+VOTER502,TamilNadu,KMNK,1774187243
+VOTER503,TamilNadu,BMK,1774187244
+VOTER504,TamilNadu,AMVK,1774187245
+VOTER505,TamilNadu,TMK,1774187246
+VOTER506,TamilNadu,ABBMK,1774187247
+VOTER507,TamilNadu,BVK,1774187248
+VOTER508,TamilNadu,AMVK,1774187249
+VOTER509,TamilNadu,BVK,1774187250
+VOTER510,TamilNadu,BJMK,1774187251
+VOTER511,TamilNadu,KMNK,1774187252
+VOTER512,TamilNadu,AMVK,1774187253
+VOTER513,TamilNadu,AMVK,1774187254
+VOTER514,TamilNadu,KMNK,1774187255
+VOTER515,TamilNadu,TMK,1774187256
+VOTER516,TamilNadu,ABBMK,1774187257
+VOTER517,TamilNadu,BMK,1774187258
+VOTER518,TamilNadu,BMK,1774187259
+VOTER519,TamilNadu,BMK,1774187260
+VOTER520,TamilNadu,BJMK,1774187261
+VOTER521,TamilNadu,AMVK,1774187262
+VOTER522,TamilNadu,KMNK,1774187263
+VOTER523,TamilNadu,AMVK,1774187264
+VOTER524,TamilNadu,BJMK,1774187265
+VOTER525,TamilNadu,BMK,1774187266
+VOTER526,TamilNadu,TMK,1774187267
+VOTER527,TamilNadu,BVK,1774187268
+VOTER528,TamilNadu,BVK,1774187269
+VOTER529,TamilNadu,TMK,1774187270
+VOTER530,TamilNadu,BJMK,1774187271
+VOTER531,TamilNadu,TMK,1774187272
+VOTER532,TamilNadu,BMK,1774187273
+VOTER533,TamilNadu,BJMK,1774187274
+VOTER534,TamilNadu,TMK,1774187275
+VOTER535,TamilNadu,BVK,1774187276
+VOTER536,TamilNadu,ABBMK,1774187277
+VOTER537,TamilNadu,TMK,1774187278
+VOTER538,TamilNadu,KMNK,1774187279
+VOTER539,TamilNadu,AMVK,1774187280
+VOTER540,TamilNadu,BMK,1774187281
+VOTER541,TamilNadu,AMVK,1774187282
+VOTER542,TamilNadu,BVK,1774187283
+VOTER543,TamilNadu,BVK,1774187284
+VOTER544,TamilNadu,ABBMK,1774187285
+VOTER545,TamilNadu,BMK,1774187286
+VOTER546,TamilNadu,TMK,1774187287
+VOTER547,TamilNadu,BMK,1774187288
+VOTER548,TamilNadu,BVK,1774187289
+VOTER549,TamilNadu,AMVK,1774187290
+VOTER550,TamilNadu,BJMK,1774187291
+VOTER551,TamilNadu,ABBMK,1774187292
+VOTER552,TamilNadu,TMK,1774187293
+VOTER553,TamilNadu,TMK,1774187294
+VOTER554,TamilNadu,BMK,1774187295
+VOTER555,TamilNadu,BVK,1774187296
+VOTER556,TamilNadu,BMK,1774187297
+VOTER557,TamilNadu,ABBMK,1774187298
+VOTER558,TamilNadu,TMK,1774187299
+VOTER559,TamilNadu,BJMK,1774187300
+VOTER560,TamilNadu,TMK,1774187301
+VOTER561,TamilNadu,KMNK,1774187302
+VOTER562,TamilNadu,AMVK,1774187303
+VOTER563,TamilNadu,AMVK,1774187304
+VOTER564,TamilNadu,ABBMK,1774187305
+VOTER565,TamilNadu,ABBMK,1774187306
+VOTER566,TamilNadu,TMK,1774187307
+VOTER567,TamilNadu,AMVK,1774187308
+VOTER568,TamilNadu,BVK,1774187309
+VOTER569,TamilNadu,KMNK,1774187310
+VOTER570,TamilNadu,ABBMK,1774187311
+VOTER571,TamilNadu,TMK,1774187312
+VOTER572,TamilNadu,AMVK,1774187313
+VOTER573,TamilNadu,BMK,1774187314
+VOTER574,TamilNadu,ABBMK,1774187315
+VOTER575,TamilNadu,KMNK,1774187316
+VOTER576,TamilNadu,BJMK,1774187317
+VOTER577,TamilNadu,BJMK,1774187318
+VOTER578,TamilNadu,BVK,1774187319
+VOTER579,TamilNadu,BMK,1774187320
+VOTER580,TamilNadu,TMK,1774187321
+VOTER581,TamilNadu,BJMK,1774187322
+VOTER582,TamilNadu,AMVK,1774187323
+VOTER583,TamilNadu,TMK,1774187324
+VOTER584,TamilNadu,BMK,1774187325
+VOTER585,TamilNadu,BJMK,1774187326
+VOTER586,TamilNadu,ABBMK,1774187327
+VOTER587,TamilNadu,TMK,1774187328
+VOTER588,TamilNadu,TMK,1774187329
+VOTER589,TamilNadu,AMVK,1774187330
+VOTER590,TamilNadu,BVK,1774187331
+VOTER591,TamilNadu,BJMK,1774187332
+VOTER592,TamilNadu,AMVK,1774187333
+VOTER593,TamilNadu,BJMK,1774187334
+VOTER594,TamilNadu,AMVK,1774187335
+VOTER595,TamilNadu,KMNK,1774187336
+VOTER596,TamilNadu,TMK,1774187337
+VOTER597,TamilNadu,BMK,1774187338
+VOTER598,TamilNadu,BMK,1774187339
+VOTER599,TamilNadu,BJMK,1774187340
+VOTER600,TamilNadu,TMK,1774187341
+VOTER601,TamilNadu,BMK,1774187342
+VOTER602,TamilNadu,BMK,1774187343
+VOTER603,TamilNadu,BMK,1774187344
+VOTER604,TamilNadu,ABBMK,1774187345
+VOTER605,TamilNadu,ABBMK,1774187346
+VOTER606,TamilNadu,TMK,1774187347
+VOTER607,TamilNadu,AMVK,1774187348
+VOTER608,TamilNadu,TMK,1774187349
+VOTER609,TamilNadu,AMVK,1774187350
+VOTER610,TamilNadu,AMVK,1774187351
+VOTER611,TamilNadu,BMK,1774187352
+VOTER612,TamilNadu,ABBMK,1774187353
+VOTER613,TamilNadu,AMVK,1774187354
+VOTER614,TamilNadu,BJMK,1774187355
+VOTER615,TamilNadu,BMK,1774187356
+VOTER616,TamilNadu,BMK,1774187357
+VOTER617,TamilNadu,KMNK,1774187358
+VOTER618,TamilNadu,BJMK,1774187359
+VOTER619,TamilNadu,BVK,1774187360
+VOTER620,TamilNadu,ABBMK,1774187361
+VOTER621,TamilNadu,ABBMK,1774187362
+VOTER622,TamilNadu,BJMK,1774187363
+VOTER623,TamilNadu,AMVK,1774187364
+VOTER624,TamilNadu,BJMK,1774187365
+VOTER625,TamilNadu,AMVK,1774187366
+VOTER626,TamilNadu,AMVK,1774187367
+VOTER627,TamilNadu,KMNK,1774187368
+VOTER628,TamilNadu,BJMK,1774187369
+VOTER629,TamilNadu,KMNK,1774187370
+VOTER630,TamilNadu,ABBMK,1774187371
+VOTER631,TamilNadu,BVK,1774187372
+VOTER632,TamilNadu,TMK,1774187373
+VOTER633,TamilNadu,AMVK,1774187374
+VOTER634,TamilNadu,TMK,1774187375
+VOTER635,TamilNadu,KMNK,1774187376
+VOTER636,TamilNadu,BMK,1774187377
+VOTER637,TamilNadu,BVK,1774187378
+VOTER638,TamilNadu,BVK,1774187379
+VOTER639,TamilNadu,ABBMK,1774187380
+VOTER640,TamilNadu,TMK,1774187381
+VOTER641,TamilNadu,BJMK,1774187382
+VOTER642,TamilNadu,BVK,1774187383
+VOTER643,TamilNadu,BMK,1774187384
+VOTER644,TamilNadu,BVK,1774187385
+VOTER645,TamilNadu,BMK,1774187386
+VOTER646,TamilNadu,BMK,1774187387
+VOTER647,TamilNadu,TMK,1774187388
+VOTER648,TamilNadu,BVK,1774187389
+VOTER649,TamilNadu,BJMK,1774187390
+VOTER650,TamilNadu,BJMK,1774187391
+VOTER651,TamilNadu,BVK,1774187392
+VOTER652,TamilNadu,TMK,1774187393
+VOTER653,TamilNadu,BMK,1774187394
+VOTER654,TamilNadu,BJMK,1774187395
+VOTER655,TamilNadu,KMNK,1774187396
+VOTER656,TamilNadu,BMK,1774187397
+VOTER657,TamilNadu,KMNK,1774187398
+VOTER658,TamilNadu,ABBMK,1774187399
+VOTER659,TamilNadu,KMNK,1774187400
+VOTER660,TamilNadu,ABBMK,1774187401
+VOTER661,TamilNadu,BJMK,1774187402
+VOTER662,TamilNadu,BJMK,1774187403
+VOTER663,TamilNadu,BJMK,1774187404
+VOTER664,TamilNadu,BVK,1774187405
+VOTER665,TamilNadu,BJMK,1774187406
+VOTER666,TamilNadu,BVK,1774187407
+VOTER667,TamilNadu,ABBMK,1774187408
+VOTER668,TamilNadu,KMNK,1774187409
+VOTER669,TamilNadu,AMVK,1774187410
+VOTER670,TamilNadu,KMNK,1774187411
+VOTER671,TamilNadu,BVK,1774187412
+VOTER672,TamilNadu,AMVK,1774187413
+VOTER673,TamilNadu,KMNK,1774187414
+VOTER674,TamilNadu,BVK,1774187415
+VOTER675,TamilNadu,TMK,1774187416
+VOTER676,TamilNadu,BVK,1774187417
+VOTER677,TamilNadu,TMK,1774187418
+VOTER678,TamilNadu,BVK,1774187419
+VOTER679,TamilNadu,BMK,1774187420
+VOTER680,TamilNadu,KMNK,1774187421
+VOTER681,TamilNadu,BVK,1774187422
+VOTER682,TamilNadu,BJMK,1774187423
+VOTER683,TamilNadu,BVK,1774187424
+VOTER684,TamilNadu,BVK,1774187425
+VOTER685,TamilNadu,ABBMK,1774187426
+VOTER686,TamilNadu,BJMK,1774187427
+VOTER687,TamilNadu,BVK,1774187428
+VOTER688,TamilNadu,ABBMK,1774187429
+VOTER689,TamilNadu,ABBMK,1774187430
+VOTER690,TamilNadu,BJMK,1774187431
+VOTER691,TamilNadu,BJMK,1774187432
+VOTER692,TamilNadu,AMVK,1774187433
+VOTER693,TamilNadu,AMVK,1774187434
+VOTER694,TamilNadu,KMNK,1774187435
+VOTER695,TamilNadu,BVK,1774187436
+VOTER696,TamilNadu,BVK,1774187437
+VOTER697,TamilNadu,TMK,1774187438
+VOTER698,TamilNadu,ABBMK,1774187439
+VOTER699,TamilNadu,AMVK,1774187440
+VOTER700,TamilNadu,BVK,1774187441
+VOTER701,TamilNadu,TMK,1774187442
+VOTER702,TamilNadu,ABBMK,1774187443
+VOTER703,TamilNadu,TMK,1774187444
+VOTER704,TamilNadu,BJMK,1774187445
+VOTER705,TamilNadu,BVK,1774187446
+VOTER706,TamilNadu,BJMK,1774187447
+VOTER707,TamilNadu,ABBMK,1774187448
+VOTER708,TamilNadu,AMVK,1774187449
+VOTER709,TamilNadu,BVK,1774187450
+VOTER710,TamilNadu,KMNK,1774187451
+VOTER711,TamilNadu,TMK,1774187452
+VOTER712,TamilNadu,TMK,1774187453
+VOTER713,TamilNadu,AMVK,1774187454
+VOTER714,TamilNadu,BVK,1774187455
+VOTER715,TamilNadu,BMK,1774187456
+VOTER716,TamilNadu,BMK,1774187457
+VOTER717,TamilNadu,BMK,1774187458
+VOTER718,TamilNadu,ABBMK,1774187459
+VOTER719,TamilNadu,KMNK,1774187460
+VOTER720,TamilNadu,BMK,1774187461
+VOTER721,TamilNadu,BJMK,1774187462
+VOTER722,TamilNadu,KMNK,1774187463
+VOTER723,TamilNadu,AMVK,1774187464
+VOTER724,TamilNadu,BMK,1774187465
+VOTER725,TamilNadu,BJMK,1774187466
+VOTER726,TamilNadu,KMNK,1774187467
+VOTER727,TamilNadu,BVK,1774187468
+VOTER728,TamilNadu,BMK,1774187469
+VOTER729,TamilNadu,BMK,1774187470
+VOTER730,TamilNadu,BVK,1774187471
+VOTER731,TamilNadu,ABBMK,1774187472
+VOTER732,TamilNadu,ABBMK,1774187473
+VOTER733,TamilNadu,TMK,1774187474
+VOTER734,TamilNadu,TMK,1774187475
+VOTER735,TamilNadu,AMVK,1774187476
+VOTER736,TamilNadu,BVK,1774187477
+VOTER737,TamilNadu,BVK,1774187478
+VOTER738,TamilNadu,ABBMK,1774187479
+VOTER739,TamilNadu,KMNK,1774187480
+VOTER740,TamilNadu,ABBMK,1774187481
+VOTER741,TamilNadu,BJMK,1774187482
+VOTER742,TamilNadu,AMVK,1774187483
+VOTER743,TamilNadu,BVK,1774187484
+VOTER744,TamilNadu,KMNK,1774187485
+VOTER745,TamilNadu,BVK,1774187486
+VOTER746,TamilNadu,AMVK,1774187487
+VOTER747,TamilNadu,KMNK,1774187488
+VOTER748,TamilNadu,KMNK,1774187489
+VOTER749,TamilNadu,AMVK,1774187490
+VOTER750,TamilNadu,BVK,1774187491
+VOTER751,TamilNadu,BJMK,1774187492
+VOTER752,TamilNadu,BJMK,1774187493
+VOTER753,TamilNadu,AMVK,1774187494
+VOTER754,TamilNadu,TMK,1774187495
+VOTER755,TamilNadu,TMK,1774187496
+VOTER756,TamilNadu,KMNK,1774187497
+VOTER757,TamilNadu,KMNK,1774187498
+VOTER758,TamilNadu,BMK,1774187499
+VOTER759,TamilNadu,KMNK,1774187500
+VOTER760,TamilNadu,TMK,1774187501
+VOTER761,TamilNadu,BJMK,1774187502
+VOTER762,TamilNadu,TMK,1774187503
+VOTER763,TamilNadu,BMK,1774187504
+VOTER764,TamilNadu,AMVK,1774187505
+VOTER765,TamilNadu,BMK,1774187506
+VOTER766,TamilNadu,BVK,1774187507
+VOTER767,TamilNadu,ABBMK,1774187508
+VOTER768,TamilNadu,BVK,1774187509
+VOTER769,TamilNadu,ABBMK,1774187510
+VOTER770,TamilNadu,BJMK,1774187511
+VOTER771,TamilNadu,ABBMK,1774187512
+VOTER772,TamilNadu,BVK,1774187513
+VOTER773,TamilNadu,BMK,1774187514
+VOTER774,TamilNadu,BMK,1774187515
+VOTER775,TamilNadu,ABBMK,1774187516
+VOTER776,TamilNadu,BMK,1774187517
+VOTER777,TamilNadu,AMVK,1774187518
+VOTER778,TamilNadu,BJMK,1774187519
+VOTER779,TamilNadu,BJMK,1774187520
+VOTER780,TamilNadu,AMVK,1774187521
+VOTER781,TamilNadu,KMNK,1774187522
+VOTER782,TamilNadu,AMVK,1774187523
+VOTER783,TamilNadu,ABBMK,1774187524
+VOTER784,TamilNadu,TMK,1774187525
+VOTER785,TamilNadu,BMK,1774187526
+VOTER786,TamilNadu,KMNK,1774187527
+VOTER787,TamilNadu,KMNK,1774187528
+VOTER788,TamilNadu,TMK,1774187529
+VOTER789,TamilNadu,BJMK,1774187530
+VOTER790,TamilNadu,BJMK,1774187531
+VOTER791,TamilNadu,ABBMK,1774187532
+VOTER792,TamilNadu,BMK,1774187533
+VOTER793,TamilNadu,TMK,1774187534
+VOTER794,TamilNadu,BMK,1774187535
+VOTER795,TamilNadu,BVK,1774187536
+VOTER796,TamilNadu,KMNK,1774187537
+VOTER797,TamilNadu,BJMK,1774187538
+VOTER798,TamilNadu,KMNK,1774187539
+VOTER799,TamilNadu,BVK,1774187540
+VOTER800,TamilNadu,BVK,1774187541
+VOTER801,TamilNadu,BJMK,1774187542
+VOTER802,TamilNadu,BMK,1774187543
+VOTER803,TamilNadu,AMVK,1774187544
+VOTER804,TamilNadu,BMK,1774187545
+VOTER805,TamilNadu,KMNK,1774187546
+VOTER806,TamilNadu,BMK,1774187547
+VOTER807,TamilNadu,BJMK,1774187548
+VOTER808,TamilNadu,KMNK,1774187549
+VOTER809,TamilNadu,AMVK,1774187550
+VOTER810,TamilNadu,ABBMK,1774187551
+VOTER811,TamilNadu,TMK,1774187552
+VOTER812,TamilNadu,TMK,1774187553
+VOTER813,TamilNadu,ABBMK,1774187554
+VOTER814,TamilNadu,AMVK,1774187555
+VOTER815,TamilNadu,ABBMK,1774187556
+VOTER816,TamilNadu,AMVK,1774187557
+VOTER817,TamilNadu,BVK,1774187558
+VOTER818,TamilNadu,BJMK,1774187559
+VOTER819,TamilNadu,KMNK,1774187560
+VOTER820,TamilNadu,BMK,1774187561
+VOTER821,TamilNadu,TMK,1774187562
+VOTER822,TamilNadu,BMK,1774187563
+VOTER823,TamilNadu,ABBMK,1774187564
+VOTER824,TamilNadu,BJMK,1774187565
+VOTER825,TamilNadu,BJMK,1774187566
+VOTER826,TamilNadu,TMK,1774187567
+VOTER827,TamilNadu,ABBMK,1774187568
+VOTER828,TamilNadu,ABBMK,1774187569
+VOTER829,TamilNadu,BMK,1774187570
+VOTER830,TamilNadu,AMVK,1774187571
+VOTER831,TamilNadu,ABBMK,1774187572
+VOTER832,TamilNadu,BMK,1774187573
+VOTER833,TamilNadu,TMK,1774187574
+VOTER834,TamilNadu,BJMK,1774187575
+VOTER835,TamilNadu,TMK,1774187576
+VOTER836,TamilNadu,BVK,1774187577
+VOTER837,TamilNadu,BJMK,1774187578
+VOTER838,TamilNadu,KMNK,1774187579
+VOTER839,TamilNadu,KMNK,1774187580
+VOTER840,TamilNadu,BMK,1774187581
+VOTER841,TamilNadu,ABBMK,1774187582
+VOTER842,TamilNadu,BVK,1774187583
+VOTER843,TamilNadu,BVK,1774187584
+VOTER844,TamilNadu,TMK,1774187585
+VOTER845,TamilNadu,BMK,1774187586
+VOTER846,TamilNadu,BVK,1774187587
+VOTER847,TamilNadu,KMNK,1774187588
+VOTER848,TamilNadu,AMVK,1774187589
+VOTER849,TamilNadu,BMK,1774187590
+VOTER850,TamilNadu,KMNK,1774187591
+VOTER851,TamilNadu,TMK,1774187592
+VOTER852,TamilNadu,BMK,1774187593
+VOTER853,TamilNadu,BVK,1774187594
+VOTER854,TamilNadu,AMVK,1774187595
+VOTER855,TamilNadu,BJMK,1774187596
+VOTER856,TamilNadu,TMK,1774187597
+VOTER857,TamilNadu,AMVK,1774187598
+VOTER858,TamilNadu,KMNK,1774187599
+VOTER859,TamilNadu,ABBMK,1774187600
+VOTER860,TamilNadu,KMNK,1774187601
+VOTER861,TamilNadu,TMK,1774187602
+VOTER862,TamilNadu,KMNK,1774187603
+VOTER863,TamilNadu,BJMK,1774187604
+VOTER864,TamilNadu,AMVK,1774187605
+VOTER865,TamilNadu,TMK,1774187606
+VOTER866,TamilNadu,KMNK,1774187607
+VOTER867,TamilNadu,BMK,1774187608
+VOTER868,TamilNadu,BJMK,1774187609
+VOTER869,TamilNadu,ABBMK,1774187610
+VOTER870,TamilNadu,ABBMK,1774187611
+VOTER871,TamilNadu,KMNK,1774187612
+VOTER872,TamilNadu,KMNK,1774187613
+VOTER873,TamilNadu,BMK,1774187614
+VOTER874,TamilNadu,AMVK,1774187615
+VOTER875,TamilNadu,BVK,1774187616
+VOTER876,TamilNadu,BVK,1774187617
+VOTER877,TamilNadu,BMK,1774187618
+VOTER878,TamilNadu,TMK,1774187619
+VOTER879,TamilNadu,AMVK,1774187620
+VOTER880,TamilNadu,BVK,1774187621
+VOTER881,TamilNadu,AMVK,1774187622
+VOTER882,TamilNadu,KMNK,1774187623
+VOTER883,TamilNadu,BJMK,1774187624
+VOTER884,TamilNadu,BMK,1774187625
+VOTER885,TamilNadu,KMNK,1774187626
+VOTER886,TamilNadu,BVK,1774187627
+VOTER887,TamilNadu,BVK,1774187628
+VOTER888,TamilNadu,BMK,1774187629
+VOTER889,TamilNadu,BJMK,1774187630
+VOTER890,TamilNadu,BJMK,1774187631
+VOTER891,TamilNadu,AMVK,1774187632
+VOTER892,TamilNadu,BVK,1774187633
+VOTER893,TamilNadu,KMNK,1774187634
+VOTER894,TamilNadu,BMK,1774187635
+VOTER895,TamilNadu,BVK,1774187636
+VOTER896,TamilNadu,KMNK,1774187637
+VOTER897,TamilNadu,ABBMK,1774187638
+VOTER898,TamilNadu,BMK,1774187639
+VOTER899,TamilNadu,BMK,1774187640
+VOTER900,TamilNadu,AMVK,1774187641
+VOTER901,TamilNadu,BJMK,1774187642
+VOTER902,TamilNadu,BMK,1774187643
+VOTER903,TamilNadu,AMVK,1774187644
+VOTER904,TamilNadu,ABBMK,1774187645
+VOTER905,TamilNadu,BJMK,1774187646
+VOTER906,TamilNadu,TMK,1774187647
+VOTER907,TamilNadu,BJMK,1774187648
+VOTER908,TamilNadu,TMK,1774187649
+VOTER909,TamilNadu,KMNK,1774187650
+VOTER910,TamilNadu,ABBMK,1774187651
+VOTER911,TamilNadu,AMVK,1774187652
+VOTER912,TamilNadu,BVK,1774187653
+VOTER913,TamilNadu,BVK,1774187654
+VOTER914,TamilNadu,ABBMK,1774187655
+VOTER915,TamilNadu,BMK,1774187656
+VOTER916,TamilNadu,TMK,1774187657
+VOTER917,TamilNadu,BMK,1774187658
+VOTER918,TamilNadu,BVK,1774187659
+VOTER919,TamilNadu,BMK,1774187660
+VOTER920,TamilNadu,ABBMK,1774187661
+VOTER921,TamilNadu,KMNK,1774187662
+VOTER922,TamilNadu,KMNK,1774187663
+VOTER923,TamilNadu,KMNK,1774187664
+VOTER924,TamilNadu,ABBMK,1774187665
+VOTER925,TamilNadu,BJMK,1774187666
+VOTER926,TamilNadu,ABBMK,1774187667
+VOTER927,TamilNadu,BVK,1774187668
+VOTER928,TamilNadu,BJMK,1774187669
+VOTER929,TamilNadu,BMK,1774187670
+VOTER930,TamilNadu,BMK,1774187671
+VOTER931,TamilNadu,AMVK,1774187672
+VOTER932,TamilNadu,BMK,1774187673
+VOTER933,TamilNadu,ABBMK,1774187674
+VOTER934,TamilNadu,ABBMK,1774187675
+VOTER935,TamilNadu,KMNK,1774187676
+VOTER936,TamilNadu,ABBMK,1774187677
+VOTER937,TamilNadu,BJMK,1774187678
+VOTER938,TamilNadu,AMVK,1774187679
+VOTER939,TamilNadu,BVK,1774187680
+VOTER940,TamilNadu,BJMK,1774187681
+VOTER941,TamilNadu,AMVK,1774187682
+VOTER942,TamilNadu,TMK,1774187683
+VOTER943,TamilNadu,ABBMK,1774187684
+VOTER944,TamilNadu,AMVK,1774187685
+VOTER945,TamilNadu,AMVK,1774187686
+VOTER946,TamilNadu,KMNK,1774187687
+VOTER947,TamilNadu,BJMK,1774187688
+VOTER948,TamilNadu,BMK,1774187689
+VOTER949,TamilNadu,KMNK,1774187690
+VOTER950,TamilNadu,AMVK,1774187691
+VOTER951,TamilNadu,AMVK,1774187692
+VOTER952,TamilNadu,ABBMK,1774187693
+VOTER953,TamilNadu,BMK,1774187694
+VOTER954,TamilNadu,TMK,1774187695
+VOTER955,TamilNadu,BVK,1774187696
+VOTER956,TamilNadu,ABBMK,1774187697
+VOTER957,TamilNadu,TMK,1774187698
+VOTER958,TamilNadu,TMK,1774187699
+VOTER959,TamilNadu,BJMK,1774187700
+VOTER960,TamilNadu,TMK,1774187701
+VOTER961,TamilNadu,AMVK,1774187702
+VOTER962,TamilNadu,BMK,1774187703
+VOTER963,TamilNadu,KMNK,1774187704
+VOTER964,TamilNadu,TMK,1774187705
+VOTER965,TamilNadu,BVK,1774187706
+VOTER966,TamilNadu,ABBMK,1774187707
+VOTER967,TamilNadu,ABBMK,1774187708
+VOTER968,TamilNadu,BVK,1774187709
+VOTER969,TamilNadu,TMK,1774187710
+VOTER970,TamilNadu,AMVK,1774187711
+VOTER971,TamilNadu,TMK,1774187712
+VOTER972,TamilNadu,BVK,1774187713
+VOTER973,TamilNadu,BVK,1774187714
+VOTER974,TamilNadu,BMK,1774187715
+VOTER975,TamilNadu,KMNK,1774187716
+VOTER976,TamilNadu,BJMK,1774187717
+VOTER977,TamilNadu,BVK,1774187718
+VOTER978,TamilNadu,ABBMK,1774187719
+VOTER979,TamilNadu,BJMK,1774187720
+VOTER980,TamilNadu,BJMK,1774187721
+VOTER981,TamilNadu,TMK,1774187722
+VOTER982,TamilNadu,BVK,1774187723
+VOTER983,TamilNadu,BMK,1774187724
+VOTER984,TamilNadu,BJMK,1774187725
+VOTER985,TamilNadu,BMK,1774187726
+VOTER986,TamilNadu,BJMK,1774187727
+VOTER987,TamilNadu,KMNK,1774187728
+VOTER988,TamilNadu,BVK,1774187729
+VOTER989,TamilNadu,BMK,1774187730
+VOTER990,TamilNadu,AMVK,1774187731
+VOTER991,TamilNadu,ABBMK,1774187732
+VOTER992,TamilNadu,BJMK,1774187733
+VOTER993,TamilNadu,BVK,1774187734
+VOTER994,TamilNadu,ABBMK,1774187735
+VOTER995,TamilNadu,AMVK,1774187736
+VOTER996,TamilNadu,KMNK,1774187737
+VOTER997,TamilNadu,BMK,1774187738
+VOTER998,TamilNadu,BMK,1774187739
+VOTER999,TamilNadu,KMNK,1774187740
+VOTER1000,TamilNadu,AMVK,1774187741
+VOTER85212,TamilNadu,BMK,1774186825
